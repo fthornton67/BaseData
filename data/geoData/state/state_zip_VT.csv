@@ -1,0 +1,924 @@
+05001,"43.591821",-72.463589,White River Junction,VT,Windsor
+05009,"43.592039",-72.588407,White River Junction,VT,Windsor
+05030,"43.410672",-72.429777,Ascutney,VT,Windsor
+05031,"43.657625",-72.54586,Barnard,VT,Windsor
+05032,"43.758758",-72.688169,Bethel,VT,Windsor
+05033,"44.004691",-72.15845,Bradford,VT,Orange
+05034,"43.592527",-72.621578,Bridgewater,VT,Windsor
+05035,"43.599795",-72.675164,Bridgewater Corners,VT,Windsor
+05036,"44.017782",-72.577365,Brookfield,VT,Orange
+05037,"43.467179",-72.488285,Brownsville,VT,Windsor
+05038,"43.994212",-72.457153,Chelsea,VT,Orange
+05039,"44.033236",-72.293631,Corinth,VT,Orange
+05040,"44.077918",-72.210962,East Corinth,VT,Orange
+05041,"43.995961",-72.411393,East Randolph,VT,Orange
+05042,"44.359629",-72.086586,East Ryegate,VT,Caledonia
+05043,"43.807282",-72.214693,East Thetford,VT,Orange
+05045,"43.928681",-72.196635,Fairlee,VT,Orange
+05046,"44.281506",-72.207573,Groton,VT,Caledonia
+05047,"43.672103",-72.355539,Hartford,VT,Windsor
+05048,"43.573379",-72.402698,Hartland,VT,Windsor
+05049,"43.592039",-72.588407,Hartland Four Corners,VT,Windsor
+05050,"44.46239",-72.135804,Mc Indoe Falls,VT,Caledonia
+05051,"44.068284",-72.118739,Newbury,VT,Orange
+05052,"43.591324",-72.34903,North Hartland,VT,Windsor
+05053,"43.709919",-72.511882,North Pomfret,VT,Windsor
+05054,"43.995961",-72.411393,North Thetford,VT,Orange
+05055,"43.717918",-72.3612,Norwich,VT,Windsor
+05056,"43.526289",-72.724848,Plymouth,VT,Windsor
+05058,"43.995961",-72.411393,Post Mills,VT,Orange
+05059,"43.664059",-72.433116,Quechee,VT,Windsor
+05060,"43.985803",-72.694098,Randolph,VT,Orange
+05061,"43.928552",-72.569113,Randolph Center,VT,Orange
+05062,"43.47559",-72.572818,Reading,VT,Windsor
+05065,"43.777365",-72.407132,Sharon,VT,Windsor
+05067,"43.697055",-72.508042,South Pomfret,VT,Windsor
+05068,"43.777096",-72.528249,South Royalton,VT,Windsor
+05069,"44.19779",-72.110362,South Ryegate,VT,Caledonia
+05070,"43.844018",-72.378546,South Strafford,VT,Orange
+05071,"43.565888",-72.534106,South Woodstock,VT,Windsor
+05072,"43.892586",-72.369563,Strafford,VT,Orange
+05073,"43.630897",-72.48908,Taftsville,VT,Windsor
+05074,"43.995961",-72.411393,Thetford,VT,Orange
+05075,"43.854018",-72.254614,Thetford Center,VT,Orange
+05076,"43.995961",-72.411393,East Corinth,VT,Orange
+05077,"43.895465",-72.473372,Tunbridge,VT,Orange
+05079,"43.952586",-72.311252,Vershire,VT,Orange
+05081,"44.119395",-72.088869,Wells River,VT,Orange
+05083,"43.995961",-72.411393,West Fairlee,VT,Orange
+05084,"43.718535",-72.443862,West Hartford,VT,Windsor
+05085,"43.995961",-72.411393,West Newbury,VT,Orange
+05086,"44.115326",-72.317918,West Topsham,VT,Orange
+05088,"43.673484",-72.31196,Wilder,VT,Windsor
+05089,"43.5181",-72.418059,Windsor,VT,Windsor
+05091,"43.631348",-72.512835,Woodstock,VT,Windsor
+05101,"43.171185",-72.623106,Bellows Falls,VT,Windham
+05141,"42.99467",-72.720362,Cambridgeport,VT,Windham
+05142,"43.402135",-72.583854,Cavendish,VT,Windsor
+05143,"43.298315",-72.667167,Chester,VT,Windsor
+05144,"43.592039",-72.588407,Chester Depot,VT,Windsor
+05146,"43.179936",-72.605636,Grafton,VT,Windham
+05148,"43.228101",-72.787995,Londonderry,VT,Windham
+05149,"43.376744",-72.706913,Ludlow,VT,Windsor
+05150,"43.33803",-72.527652,North Springfield,VT,Windsor
+05151,"43.409654",-72.495851,Perkinsville,VT,Windsor
+05152,"43.09893",-73.034944,Peru,VT,Bennington
+05153,"43.439854",-72.620659,Proctorsville,VT,Windsor
+05154,"43.164738",-72.53194,Saxtons River,VT,Windham
+05155,"43.169854",-72.851525,South Londonderry,VT,Windham
+05156,"43.40971",-72.586064,Springfield,VT,Windsor
+05158,"43.082635",-72.474882,Westminster,VT,Windham
+05159,"43.093972",-72.456492,Westminster Station,VT,Windham
+05161,"43.316142",-72.739715,Weston,VT,Windsor
+05201,"42.934076",-73.105382,Bennington,VT,Bennington
+05250,"43.065719",-73.134727,Arlington,VT,Bennington
+05251,"43.261817",-73.139173,Dorset,VT,Bennington
+05252,"43.069409",-73.165898,East Arlington,VT,Bennington
+05253,"43.182502",-73.065443,East Dorset,VT,Bennington
+05254,"43.177204",-73.045787,Manchester,VT,Bennington
+05255,"43.169289",-73.047358,Manchester Center,VT,Bennington
+05257,"42.966471",-73.250529,North Bennington,VT,Bennington
+05260,"42.829469",-73.262496,North Pownal,VT,Bennington
+05261,"42.790682",-73.201254,Pownal,VT,Bennington
+05262,"42.979702",-73.192929,Shaftsbury,VT,Bennington
+05301,"42.884281",-72.760753,Brattleboro,VT,Windham
+05302,"42.99467",-72.720362,Brattleboro,VT,Windham
+05303,"42.99467",-72.720362,Brattleboro,VT,Windham
+05304,"42.99467",-72.720362,Brattleboro,VT,Windham
+05340,"43.16409",-72.91514,Bondville,VT,Bennington
+05341,"42.968046",-72.812012,East Dover,VT,Windham
+05342,"42.795363",-72.817838,Jacksonville,VT,Windham
+05343,"43.012776",-72.767275,Jamaica,VT,Windham
+05344,"42.99467",-72.720362,Marlboro,VT,Windham
+05345,"43.013138",-72.678725,Newfane,VT,Windham
+05346,"43.016096",-72.534025,Putney,VT,Windham
+05350,"42.785591",-72.971932,Readsboro,VT,Bennington
+05351,"42.939071",-72.72923,South Newfane,VT,Windham
+05352,"42.782616",-73.067501,Stamford,VT,Bennington
+05353,"43.070341",-72.672991,Townshend,VT,Windham
+05354,"42.773711",-72.520166,Vernon,VT,Windham
+05355,"43.00476",-72.792004,Wardsboro,VT,Windham
+05356,"43.013041",-72.793787,West Dover,VT,Windham
+05357,"42.957233",-72.62408,West Dummerston,VT,Windham
+05358,"42.766519",-72.745723,West Halifax,VT,Windham
+05359,"43.133864",-72.714573,West Townshend,VT,Windham
+05360,"43.050937",-72.825636,West Wardsboro,VT,Windham
+05361,"42.78318",-72.867891,Whitingham,VT,Windham
+05362,"42.975027",-72.673566,Williamsville,VT,Windham
+05363,"42.944039",-72.727518,Wilmington,VT,Windham
+05401,"44.507404",-73.151384,Burlington,VT,Chittenden
+05402,"44.442117",-73.082525,Burlington,VT,Chittenden
+05403,"44.448119",-73.098238,South Burlington,VT,Chittenden
+05404,"44.498032",-73.182158,Winooski,VT,Chittenden
+05405,"44.442117",-73.082525,Burlington,VT,Chittenden
+05406,"44.442117",-73.082525,Burlington,VT,Chittenden
+05407,"44.442117",-73.082525,South Burlington,VT,Chittenden
+05439,"44.49518",-73.165092,Colchester,VT,Chittenden
+05440,"44.93606",-73.289065,Alburg,VT,Grand Isle
+05441,"44.836967",-72.92169,Bakersfield,VT,Franklin
+05442,"44.724842",-72.701554,Belvidere Center,VT,Lamoille
+05443,"44.157814",-73.071813,Bristol,VT,Addison
+05444,"44.62218",-72.881162,Cambridge,VT,Lamoille
+05445,"44.31658",-73.226034,Charlotte,VT,Chittenden
+05446,"44.535557",-73.103897,Colchester,VT,Chittenden
+05447,"44.824855",-72.895849,East Berkshire,VT,Franklin
+05448,"44.741186",-72.882683,East Fairfield,VT,Franklin
+05449,"44.442117",-73.082525,Colchester,VT,Chittenden
+05450,"44.902044",-72.782425,Enosburg Falls,VT,Franklin
+05451,"44.50835",-73.050271,Essex,VT,Chittenden
+05452,"44.485558",-73.025271,Essex Junction,VT,Chittenden
+05453,"44.442117",-73.082525,Essex Junction,VT,Chittenden
+05454,"44.733486",-72.953478,Fairfax,VT,Franklin
+05455,"44.816159",-72.969743,Fairfield,VT,Franklin
+05456,"44.210886",-73.256629,Ferrisburg,VT,Addison
+05457,"44.96038",-72.913261,Franklin,VT,Franklin
+05458,"44.723391",-73.303193,Grand Isle,VT,Grand Isle
+05459,"44.962395",-73.033062,Highgate Center,VT,Franklin
+05460,"44.974765",-73.105205,Highgate Springs,VT,Franklin
+05461,"44.4553",-73.067858,Hinesburg,VT,Chittenden
+05462,"44.318091",-73.006184,Huntington,VT,Chittenden
+05463,"44.878094",-73.338597,Isle La Motte,VT,Grand Isle
+05464,"44.638789",-72.82199,Jeffersonville,VT,Lamoille
+05465,"44.458996",-72.955175,Jericho,VT,Chittenden
+05466,"44.362504",-73.019801,Jonesville,VT,Chittenden
+05468,"44.643418",-73.121685,Milton,VT,Chittenden
+05469,"44.240375",-73.134702,Monkton,VT,Addison
+05470,"44.824855",-72.895849,Montgomery,VT,Franklin
+05471,"44.848241",-72.619812,Montgomery Center,VT,Franklin
+05472,"44.149509",-73.197156,New Haven,VT,Addison
+05473,"44.239233",-73.205939,North Ferrisburg,VT,Addison
+05474,"44.835274",-73.277846,North Hero,VT,Grand Isle
+05476,"44.952669",-72.65435,Richford,VT,Franklin
+05477,"44.387289",-72.953283,Richmond,VT,Chittenden
+05478,"44.779982",-72.908985,Saint Albans,VT,Franklin
+05479,"44.824855",-72.895849,Saint Albans,VT,Franklin
+05481,"44.824855",-72.895849,Saint Albans Bay,VT,Franklin
+05482,"44.42493",-73.114047,Shelburne,VT,Chittenden
+05483,"44.897751",-72.961075,Sheldon,VT,Franklin
+05485,"44.905573",-72.963154,Sheldon Springs,VT,Franklin
+05486,"44.738156",-73.306352,South Hero,VT,Grand Isle
+05487,"44.235203",-73.02086,Starksboro,VT,Addison
+05488,"44.902128",-72.948391,Swanton,VT,Franklin
+05489,"44.565148",-72.907209,Underhill,VT,Chittenden
+05490,"44.504656",-72.885253,Underhill Center,VT,Chittenden
+05491,"44.145691",-73.260487,Vergennes,VT,Addison
+05492,"44.736083",-72.703199,Waterville,VT,Lamoille
+05494,"44.56959",-73.025541,Westford,VT,Chittenden
+05495,"44.430096",-73.026735,Williston,VT,Chittenden
+05601,"44.19906",-72.559638,Montpelier,VT,Washington
+05602,"44.26829",-72.623619,Montpelier,VT,Washington
+05603,"44.156554",-72.655892,Montpelier,VT,Washington
+05604,"44.259518",-72.585018,Montpelier,VT,Washington
+05609,"44.259518",-72.585018,Montpelier,VT,Washington
+05620,"44.259518",-72.585018,Montpelier,VT,Washington
+05633,"44.259518",-72.585018,Montpelier,VT,Washington
+05640,"44.174872",-72.502235,Adamant,VT,Washington
+05641,"44.20896",-72.607693,Barre,VT,Washington
+05647,"44.266228",-72.530473,Cabot,VT,Washington
+05648,"44.259518",-72.585018,Calais,VT,Washington
+05649,"44.157636",-72.453261,East Barre,VT,Washington
+05650,"44.407044",-72.498572,East Calais,VT,Washington
+05651,"44.279376",-72.49657,East Montpelier,VT,Washington
+05652,"44.718619",-72.57821,Eden,VT,Lamoille
+05653,"44.701158",-72.479642,Eden Mills,VT,Lamoille
+05654,"44.155438",-72.484706,Graniteville,VT,Washington
+05655,"44.560808",-72.590031,Hyde Park,VT,Lamoille
+05656,"44.642603",-72.735911,Johnson,VT,Lamoille
+05657,"44.599905",-72.647519,Lake Elmore,VT,Lamoille
+05658,"44.374874",-72.329902,Marshfield,VT,Washington
+05660,"44.270817",-72.786431,Moretown,VT,Washington
+05661,"44.560179",-72.615346,Morrisville,VT,Lamoille
+05662,"44.442001",-72.718759,Moscow,VT,Lamoille
+05663,"44.180906",-72.678854,Northfield,VT,Washington
+05664,"44.183536",-72.646591,Northfield Falls,VT,Washington
+05665,"44.67307",-72.597057,North Hyde Park,VT,Lamoille
+05666,"44.259518",-72.585018,North Montpelier,VT,Washington
+05667,"44.283708",-72.552243,Plainfield,VT,Washington
+05669,"44.028005",-73.089655,Roxbury,VT,Addison
+05670,"44.175744",-72.50247,South Barre,VT,Washington
+05671,"44.259518",-72.585018,Waterbury,VT,Washington
+05672,"44.535179",-72.660043,Stowe,VT,Lamoille
+05673,"44.192186",-72.843868,Waitsfield,VT,Washington
+05674,"44.217175",-72.820401,Warren,VT,Washington
+05675,"44.078238",-72.426322,Washington,VT,Orange
+05676,"44.259608",-72.781143,Waterbury,VT,Washington
+05677,"44.389313",-72.708616,Waterbury Center,VT,Washington
+05678,"44.155782",-72.46581,Websterville,VT,Washington
+05679,"44.103841",-72.526916,Williamstown,VT,Orange
+05680,"44.539539",-72.487589,Wolcott,VT,Lamoille
+05681,"44.259518",-72.585018,Woodbury,VT,Washington
+05682,"44.343536",-72.575645,Worcester,VT,Washington
+05701,"43.630346",-72.93586,Rutland,VT,Rutland
+05702,"43.412792",-72.990632,Rutland,VT,Rutland
+05730,"43.420978",-72.828524,Belmont,VT,Rutland
+05731,"43.687677",-73.291868,Benson,VT,Rutland
+05732,"43.643723",-73.209356,Bomoseen,VT,Rutland
+05733,"43.655139",-73.121251,Brandon,VT,Rutland
+05734,"43.982512",-73.331483,Bridport,VT,Addison
+05735,"43.636856",-73.126638,Castleton,VT,Rutland
+05736,"43.594106",-73.008253,Center Rutland,VT,Rutland
+05737,"43.713218",-72.925199,Chittenden,VT,Rutland
+05738,"43.526706",-72.869165,Cuttingsville,VT,Rutland
+05739,"43.34792",-73.027985,Danby,VT,Rutland
+05740,"43.97153",-73.091416,East Middlebury,VT,Addison
+05741,"43.592039",-72.818121,East Poultney,VT,Rutland
+05742,"43.446092",-72.92087,East Wallingford,VT,Rutland
+05743,"43.634258",-73.182585,Fair Haven,VT,Rutland
+05744,"43.576783",-73.107352,Florence,VT,Rutland
+05745,"43.592039",-72.818121,Forest Dale,VT,Rutland
+05746,"43.592039",-72.588407,Gaysville,VT,Windsor
+05747,"44.0032",-72.817108,Granville,VT,Addison
+05748,"43.907858",-72.890031,Hancock,VT,Addison
+05750,"43.599381",-73.25104,Hydeville,VT,Rutland
+05751,"43.656951",-72.782713,Killington,VT,Rutland
+05753,"43.991942",-73.171578,Middlebury,VT,Addison
+05757,"43.478301",-73.060391,Middletown Springs,VT,Rutland
+05758,"43.444535",-72.802413,Mount Holly,VT,Rutland
+05759,"43.535739",-72.970114,North Clarendon,VT,Rutland
+05760,"43.863158",-73.242322,Orwell,VT,Addison
+05761,"43.361439",-73.150683,Pawlet,VT,Rutland
+05762,"43.592039",-72.818121,Pittsfield,VT,Rutland
+05763,"43.72182",-72.999461,Pittsford,VT,Rutland
+05764,"43.525395",-73.112878,Poultney,VT,Rutland
+05765,"43.601975",-73.09589,Proctor,VT,Rutland
+05766,"43.979315",-73.010663,Ripton,VT,Addison
+05767,"43.866832",-72.851495,Rochester,VT,Windsor
+05768,"43.026984",-73.055156,Rupert,VT,Bennington
+05769,"43.920297",-73.122709,Salisbury,VT,Addison
+05770,"43.912406",-73.279162,Shoreham,VT,Addison
+05772,"43.756978",-72.730177,Stockbridge,VT,Windsor
+05773,"43.477386",-73.066066,Wallingford,VT,Rutland
+05774,"43.429363",-73.161826,Wells,VT,Rutland
+05775,"43.360006",-73.224211,West Pawlet,VT,Rutland
+05776,"43.026984",-73.055156,West Rupert,VT,Bennington
+05777,"43.588163",-73.065323,West Rutland,VT,Rutland
+05778,"43.893982",-73.203001,Whiting,VT,Addison
+05819,"44.426455",-72.114155,Saint Johnsbury,VT,Caledonia
+05820,"44.741679",-72.364639,Albany,VT,Orleans
+05821,"44.313675",-72.11879,Barnet,VT,Caledonia
+05822,"44.73663",-72.199084,Barton,VT,Orleans
+05823,"45.005783",-72.138347,Beebe Plain,VT,Orleans
+05824,"44.581613",-71.833956,Concord,VT,Essex
+05825,"44.775607",-72.22641,Coventry,VT,Orleans
+05826,"44.641663",-72.388928,Craftsbury,VT,Orleans
+05827,"44.678786",-72.35944,Craftsbury Common,VT,Orleans
+05828,"44.437306",-72.123508,Danville,VT,Caledonia
+05829,"44.952347",-72.218616,Derby,VT,Orleans
+05830,"44.97035",-72.036632,Derby Line,VT,Orleans
+05832,"44.587962",-71.910223,East Burke,VT,Caledonia
+05833,"44.775607",-72.22641,East Charleston,VT,Orleans
+05836,"44.496356",-72.17371,East Hardwick,VT,Caledonia
+05837,"44.667396",-71.813465,East Haven,VT,Essex
+05838,"44.468494",-71.930077,East Saint Johnsbury,VT,Caledonia
+05839,"44.679528",-72.221912,Glover,VT,Orleans
+05840,"44.680771",-71.719436,Granby,VT,Essex
+05841,"44.600325",-72.286556,Greensboro,VT,Orleans
+05842,"44.775607",-72.22641,Greensboro Bend,VT,Orleans
+05843,"44.51609",-72.309822,Hardwick,VT,Caledonia
+05845,"44.783177",-72.301139,Irasburg,VT,Orleans
+05846,"44.832535",-71.841125,Island Pond,VT,Essex
+05847,"44.788925",-72.439455,Lowell,VT,Orleans
+05848,"44.382103",-71.919518,Lower Waterford,VT,Caledonia
+05849,"44.497557",-71.950519,Lyndon,VT,Caledonia
+05850,"44.481915",-71.988258,Lyndon Center,VT,Caledonia
+05851,"44.5351",-72.056557,Lyndonville,VT,Caledonia
+05853,"44.878704",-71.971424,Morgan,VT,Orleans
+05855,"44.907921",-72.203948,Newport,VT,Orleans
+05857,"44.927018",-72.299191,Newport Center,VT,Orleans
+05858,"44.512087",-71.795986,North Concord,VT,Essex
+05859,"44.937769",-72.433354,North Troy,VT,Orleans
+05860,"44.823782",-72.102019,Orleans,VT,Orleans
+05861,"44.46239",-72.135804,Passumpsic,VT,Caledonia
+05862,"44.46239",-72.135804,Peacham,VT,Caledonia
+05863,"44.503403",-71.972088,Saint Johnsbury Center,VT,Caledonia
+05866,"44.639653",-72.132255,Sheffield,VT,Caledonia
+05867,"44.664521",-72.042415,Sutton,VT,Caledonia
+05868,"44.775607",-72.22641,Troy,VT,Orleans
+05871,"44.683041",-71.936817,West Burke,VT,Caledonia
+05872,"44.849402",-72.03121,West Charleston,VT,Orleans
+05873,"44.393366",-72.222424,West Danville,VT,Caledonia
+05874,"44.869117",-72.450485,Westfield,VT,Orleans
+05875,"44.710028",-72.258038,West Glover,VT,Orleans
+05901,"44.680771",-71.719436,Averill,VT,Essex
+05902,"44.680771",-71.719436,Beecher Falls,VT,Essex
+05903,"44.930787",-71.597809,Canaan,VT,Essex
+05904,"44.680771",-71.719436,Gilman,VT,Essex
+05905,"44.671187",-71.662213,Guildhall,VT,Essex
+05906,"44.680771",-71.719436,Lunenburg,VT,Essex
+05907,"44.932643",-71.776359,Norton,VT,Essex
+05001,"43.591821",-72.463589,White River Junction,VT,Windsor
+05009,"43.592039",-72.588407,White River Junction,VT,Windsor
+05030,"43.410672",-72.429777,Ascutney,VT,Windsor
+05031,"43.657625",-72.54586,Barnard,VT,Windsor
+05032,"43.758758",-72.688169,Bethel,VT,Windsor
+05033,"44.004691",-72.15845,Bradford,VT,Orange
+05034,"43.592527",-72.621578,Bridgewater,VT,Windsor
+05035,"43.599795",-72.675164,Bridgewater Corners,VT,Windsor
+05036,"44.017782",-72.577365,Brookfield,VT,Orange
+05037,"43.467179",-72.488285,Brownsville,VT,Windsor
+05038,"43.994212",-72.457153,Chelsea,VT,Orange
+05039,"44.033236",-72.293631,Corinth,VT,Orange
+05040,"44.077918",-72.210962,East Corinth,VT,Orange
+05041,"43.995961",-72.411393,East Randolph,VT,Orange
+05042,"44.359629",-72.086586,East Ryegate,VT,Caledonia
+05043,"43.807282",-72.214693,East Thetford,VT,Orange
+05045,"43.928681",-72.196635,Fairlee,VT,Orange
+05046,"44.281506",-72.207573,Groton,VT,Caledonia
+05047,"43.672103",-72.355539,Hartford,VT,Windsor
+05048,"43.573379",-72.402698,Hartland,VT,Windsor
+05049,"43.592039",-72.588407,Hartland Four Corners,VT,Windsor
+05050,"44.46239",-72.135804,Mc Indoe Falls,VT,Caledonia
+05051,"44.068284",-72.118739,Newbury,VT,Orange
+05052,"43.591324",-72.34903,North Hartland,VT,Windsor
+05053,"43.709919",-72.511882,North Pomfret,VT,Windsor
+05054,"43.995961",-72.411393,North Thetford,VT,Orange
+05055,"43.717918",-72.3612,Norwich,VT,Windsor
+05056,"43.526289",-72.724848,Plymouth,VT,Windsor
+05058,"43.995961",-72.411393,Post Mills,VT,Orange
+05059,"43.664059",-72.433116,Quechee,VT,Windsor
+05060,"43.985803",-72.694098,Randolph,VT,Orange
+05061,"43.928552",-72.569113,Randolph Center,VT,Orange
+05062,"43.47559",-72.572818,Reading,VT,Windsor
+05065,"43.777365",-72.407132,Sharon,VT,Windsor
+05067,"43.697055",-72.508042,South Pomfret,VT,Windsor
+05068,"43.777096",-72.528249,South Royalton,VT,Windsor
+05069,"44.19779",-72.110362,South Ryegate,VT,Caledonia
+05070,"43.844018",-72.378546,South Strafford,VT,Orange
+05071,"43.565888",-72.534106,South Woodstock,VT,Windsor
+05072,"43.892586",-72.369563,Strafford,VT,Orange
+05073,"43.630897",-72.48908,Taftsville,VT,Windsor
+05074,"43.995961",-72.411393,Thetford,VT,Orange
+05075,"43.854018",-72.254614,Thetford Center,VT,Orange
+05076,"43.995961",-72.411393,East Corinth,VT,Orange
+05077,"43.895465",-72.473372,Tunbridge,VT,Orange
+05079,"43.952586",-72.311252,Vershire,VT,Orange
+05081,"44.119395",-72.088869,Wells River,VT,Orange
+05083,"43.995961",-72.411393,West Fairlee,VT,Orange
+05084,"43.718535",-72.443862,West Hartford,VT,Windsor
+05085,"43.995961",-72.411393,West Newbury,VT,Orange
+05086,"44.115326",-72.317918,West Topsham,VT,Orange
+05088,"43.673484",-72.31196,Wilder,VT,Windsor
+05089,"43.5181",-72.418059,Windsor,VT,Windsor
+05091,"43.631348",-72.512835,Woodstock,VT,Windsor
+05101,"43.171185",-72.623106,Bellows Falls,VT,Windham
+05141,"42.99467",-72.720362,Cambridgeport,VT,Windham
+05142,"43.402135",-72.583854,Cavendish,VT,Windsor
+05143,"43.298315",-72.667167,Chester,VT,Windsor
+05144,"43.592039",-72.588407,Chester Depot,VT,Windsor
+05146,"43.179936",-72.605636,Grafton,VT,Windham
+05148,"43.228101",-72.787995,Londonderry,VT,Windham
+05149,"43.376744",-72.706913,Ludlow,VT,Windsor
+05150,"43.33803",-72.527652,North Springfield,VT,Windsor
+05151,"43.409654",-72.495851,Perkinsville,VT,Windsor
+05152,"43.09893",-73.034944,Peru,VT,Bennington
+05153,"43.439854",-72.620659,Proctorsville,VT,Windsor
+05154,"43.164738",-72.53194,Saxtons River,VT,Windham
+05155,"43.169854",-72.851525,South Londonderry,VT,Windham
+05156,"43.40971",-72.586064,Springfield,VT,Windsor
+05158,"43.082635",-72.474882,Westminster,VT,Windham
+05159,"43.093972",-72.456492,Westminster Station,VT,Windham
+05161,"43.316142",-72.739715,Weston,VT,Windsor
+05201,"42.934076",-73.105382,Bennington,VT,Bennington
+05250,"43.065719",-73.134727,Arlington,VT,Bennington
+05251,"43.261817",-73.139173,Dorset,VT,Bennington
+05252,"43.069409",-73.165898,East Arlington,VT,Bennington
+05253,"43.182502",-73.065443,East Dorset,VT,Bennington
+05254,"43.177204",-73.045787,Manchester,VT,Bennington
+05255,"43.169289",-73.047358,Manchester Center,VT,Bennington
+05257,"42.966471",-73.250529,North Bennington,VT,Bennington
+05260,"42.829469",-73.262496,North Pownal,VT,Bennington
+05261,"42.790682",-73.201254,Pownal,VT,Bennington
+05262,"42.979702",-73.192929,Shaftsbury,VT,Bennington
+05301,"42.884281",-72.760753,Brattleboro,VT,Windham
+05302,"42.99467",-72.720362,Brattleboro,VT,Windham
+05303,"42.99467",-72.720362,Brattleboro,VT,Windham
+05304,"42.99467",-72.720362,Brattleboro,VT,Windham
+05340,"43.16409",-72.91514,Bondville,VT,Bennington
+05341,"42.968046",-72.812012,East Dover,VT,Windham
+05342,"42.795363",-72.817838,Jacksonville,VT,Windham
+05343,"43.012776",-72.767275,Jamaica,VT,Windham
+05344,"42.99467",-72.720362,Marlboro,VT,Windham
+05345,"43.013138",-72.678725,Newfane,VT,Windham
+05346,"43.016096",-72.534025,Putney,VT,Windham
+05350,"42.785591",-72.971932,Readsboro,VT,Bennington
+05351,"42.939071",-72.72923,South Newfane,VT,Windham
+05352,"42.782616",-73.067501,Stamford,VT,Bennington
+05353,"43.070341",-72.672991,Townshend,VT,Windham
+05354,"42.773711",-72.520166,Vernon,VT,Windham
+05355,"43.00476",-72.792004,Wardsboro,VT,Windham
+05356,"43.013041",-72.793787,West Dover,VT,Windham
+05357,"42.957233",-72.62408,West Dummerston,VT,Windham
+05358,"42.766519",-72.745723,West Halifax,VT,Windham
+05359,"43.133864",-72.714573,West Townshend,VT,Windham
+05360,"43.050937",-72.825636,West Wardsboro,VT,Windham
+05361,"42.78318",-72.867891,Whitingham,VT,Windham
+05362,"42.975027",-72.673566,Williamsville,VT,Windham
+05363,"42.944039",-72.727518,Wilmington,VT,Windham
+05401,"44.507404",-73.151384,Burlington,VT,Chittenden
+05402,"44.442117",-73.082525,Burlington,VT,Chittenden
+05403,"44.448119",-73.098238,South Burlington,VT,Chittenden
+05404,"44.498032",-73.182158,Winooski,VT,Chittenden
+05405,"44.442117",-73.082525,Burlington,VT,Chittenden
+05406,"44.442117",-73.082525,Burlington,VT,Chittenden
+05407,"44.442117",-73.082525,South Burlington,VT,Chittenden
+05439,"44.49518",-73.165092,Colchester,VT,Chittenden
+05440,"44.93606",-73.289065,Alburg,VT,Grand Isle
+05441,"44.836967",-72.92169,Bakersfield,VT,Franklin
+05442,"44.724842",-72.701554,Belvidere Center,VT,Lamoille
+05443,"44.157814",-73.071813,Bristol,VT,Addison
+05444,"44.62218",-72.881162,Cambridge,VT,Lamoille
+05445,"44.31658",-73.226034,Charlotte,VT,Chittenden
+05446,"44.535557",-73.103897,Colchester,VT,Chittenden
+05447,"44.824855",-72.895849,East Berkshire,VT,Franklin
+05448,"44.741186",-72.882683,East Fairfield,VT,Franklin
+05449,"44.442117",-73.082525,Colchester,VT,Chittenden
+05450,"44.902044",-72.782425,Enosburg Falls,VT,Franklin
+05451,"44.50835",-73.050271,Essex,VT,Chittenden
+05452,"44.485558",-73.025271,Essex Junction,VT,Chittenden
+05453,"44.442117",-73.082525,Essex Junction,VT,Chittenden
+05454,"44.733486",-72.953478,Fairfax,VT,Franklin
+05455,"44.816159",-72.969743,Fairfield,VT,Franklin
+05456,"44.210886",-73.256629,Ferrisburg,VT,Addison
+05457,"44.96038",-72.913261,Franklin,VT,Franklin
+05458,"44.723391",-73.303193,Grand Isle,VT,Grand Isle
+05459,"44.962395",-73.033062,Highgate Center,VT,Franklin
+05460,"44.974765",-73.105205,Highgate Springs,VT,Franklin
+05461,"44.4553",-73.067858,Hinesburg,VT,Chittenden
+05462,"44.318091",-73.006184,Huntington,VT,Chittenden
+05463,"44.878094",-73.338597,Isle La Motte,VT,Grand Isle
+05464,"44.638789",-72.82199,Jeffersonville,VT,Lamoille
+05465,"44.458996",-72.955175,Jericho,VT,Chittenden
+05466,"44.362504",-73.019801,Jonesville,VT,Chittenden
+05468,"44.643418",-73.121685,Milton,VT,Chittenden
+05469,"44.240375",-73.134702,Monkton,VT,Addison
+05470,"44.824855",-72.895849,Montgomery,VT,Franklin
+05471,"44.848241",-72.619812,Montgomery Center,VT,Franklin
+05472,"44.149509",-73.197156,New Haven,VT,Addison
+05473,"44.239233",-73.205939,North Ferrisburg,VT,Addison
+05474,"44.835274",-73.277846,North Hero,VT,Grand Isle
+05476,"44.952669",-72.65435,Richford,VT,Franklin
+05477,"44.387289",-72.953283,Richmond,VT,Chittenden
+05478,"44.779982",-72.908985,Saint Albans,VT,Franklin
+05479,"44.824855",-72.895849,Saint Albans,VT,Franklin
+05481,"44.824855",-72.895849,Saint Albans Bay,VT,Franklin
+05482,"44.42493",-73.114047,Shelburne,VT,Chittenden
+05483,"44.897751",-72.961075,Sheldon,VT,Franklin
+05485,"44.905573",-72.963154,Sheldon Springs,VT,Franklin
+05486,"44.738156",-73.306352,South Hero,VT,Grand Isle
+05487,"44.235203",-73.02086,Starksboro,VT,Addison
+05488,"44.902128",-72.948391,Swanton,VT,Franklin
+05489,"44.565148",-72.907209,Underhill,VT,Chittenden
+05490,"44.504656",-72.885253,Underhill Center,VT,Chittenden
+05491,"44.145691",-73.260487,Vergennes,VT,Addison
+05492,"44.736083",-72.703199,Waterville,VT,Lamoille
+05494,"44.56959",-73.025541,Westford,VT,Chittenden
+05495,"44.430096",-73.026735,Williston,VT,Chittenden
+05601,"44.19906",-72.559638,Montpelier,VT,Washington
+05602,"44.26829",-72.623619,Montpelier,VT,Washington
+05603,"44.156554",-72.655892,Montpelier,VT,Washington
+05604,"44.259518",-72.585018,Montpelier,VT,Washington
+05609,"44.259518",-72.585018,Montpelier,VT,Washington
+05620,"44.259518",-72.585018,Montpelier,VT,Washington
+05633,"44.259518",-72.585018,Montpelier,VT,Washington
+05640,"44.174872",-72.502235,Adamant,VT,Washington
+05641,"44.20896",-72.607693,Barre,VT,Washington
+05647,"44.266228",-72.530473,Cabot,VT,Washington
+05648,"44.259518",-72.585018,Calais,VT,Washington
+05649,"44.157636",-72.453261,East Barre,VT,Washington
+05650,"44.407044",-72.498572,East Calais,VT,Washington
+05651,"44.279376",-72.49657,East Montpelier,VT,Washington
+05652,"44.718619",-72.57821,Eden,VT,Lamoille
+05653,"44.701158",-72.479642,Eden Mills,VT,Lamoille
+05654,"44.155438",-72.484706,Graniteville,VT,Washington
+05655,"44.560808",-72.590031,Hyde Park,VT,Lamoille
+05656,"44.642603",-72.735911,Johnson,VT,Lamoille
+05657,"44.599905",-72.647519,Lake Elmore,VT,Lamoille
+05658,"44.374874",-72.329902,Marshfield,VT,Washington
+05660,"44.270817",-72.786431,Moretown,VT,Washington
+05661,"44.560179",-72.615346,Morrisville,VT,Lamoille
+05662,"44.442001",-72.718759,Moscow,VT,Lamoille
+05663,"44.180906",-72.678854,Northfield,VT,Washington
+05664,"44.183536",-72.646591,Northfield Falls,VT,Washington
+05665,"44.67307",-72.597057,North Hyde Park,VT,Lamoille
+05666,"44.259518",-72.585018,North Montpelier,VT,Washington
+05667,"44.283708",-72.552243,Plainfield,VT,Washington
+05669,"44.028005",-73.089655,Roxbury,VT,Addison
+05670,"44.175744",-72.50247,South Barre,VT,Washington
+05671,"44.259518",-72.585018,Waterbury,VT,Washington
+05672,"44.535179",-72.660043,Stowe,VT,Lamoille
+05673,"44.192186",-72.843868,Waitsfield,VT,Washington
+05674,"44.217175",-72.820401,Warren,VT,Washington
+05675,"44.078238",-72.426322,Washington,VT,Orange
+05676,"44.259608",-72.781143,Waterbury,VT,Washington
+05677,"44.389313",-72.708616,Waterbury Center,VT,Washington
+05678,"44.155782",-72.46581,Websterville,VT,Washington
+05679,"44.103841",-72.526916,Williamstown,VT,Orange
+05680,"44.539539",-72.487589,Wolcott,VT,Lamoille
+05681,"44.259518",-72.585018,Woodbury,VT,Washington
+05682,"44.343536",-72.575645,Worcester,VT,Washington
+05701,"43.630346",-72.93586,Rutland,VT,Rutland
+05702,"43.412792",-72.990632,Rutland,VT,Rutland
+05730,"43.420978",-72.828524,Belmont,VT,Rutland
+05731,"43.687677",-73.291868,Benson,VT,Rutland
+05732,"43.643723",-73.209356,Bomoseen,VT,Rutland
+05733,"43.655139",-73.121251,Brandon,VT,Rutland
+05734,"43.982512",-73.331483,Bridport,VT,Addison
+05735,"43.636856",-73.126638,Castleton,VT,Rutland
+05736,"43.594106",-73.008253,Center Rutland,VT,Rutland
+05737,"43.713218",-72.925199,Chittenden,VT,Rutland
+05738,"43.526706",-72.869165,Cuttingsville,VT,Rutland
+05739,"43.34792",-73.027985,Danby,VT,Rutland
+05740,"43.97153",-73.091416,East Middlebury,VT,Addison
+05741,"43.592039",-72.818121,East Poultney,VT,Rutland
+05742,"43.446092",-72.92087,East Wallingford,VT,Rutland
+05743,"43.634258",-73.182585,Fair Haven,VT,Rutland
+05744,"43.576783",-73.107352,Florence,VT,Rutland
+05745,"43.592039",-72.818121,Forest Dale,VT,Rutland
+05746,"43.592039",-72.588407,Gaysville,VT,Windsor
+05747,"44.0032",-72.817108,Granville,VT,Addison
+05748,"43.907858",-72.890031,Hancock,VT,Addison
+05750,"43.599381",-73.25104,Hydeville,VT,Rutland
+05751,"43.656951",-72.782713,Killington,VT,Rutland
+05753,"43.991942",-73.171578,Middlebury,VT,Addison
+05757,"43.478301",-73.060391,Middletown Springs,VT,Rutland
+05758,"43.444535",-72.802413,Mount Holly,VT,Rutland
+05759,"43.535739",-72.970114,North Clarendon,VT,Rutland
+05760,"43.863158",-73.242322,Orwell,VT,Addison
+05761,"43.361439",-73.150683,Pawlet,VT,Rutland
+05762,"43.592039",-72.818121,Pittsfield,VT,Rutland
+05763,"43.72182",-72.999461,Pittsford,VT,Rutland
+05764,"43.525395",-73.112878,Poultney,VT,Rutland
+05765,"43.601975",-73.09589,Proctor,VT,Rutland
+05766,"43.979315",-73.010663,Ripton,VT,Addison
+05767,"43.866832",-72.851495,Rochester,VT,Windsor
+05768,"43.026984",-73.055156,Rupert,VT,Bennington
+05769,"43.920297",-73.122709,Salisbury,VT,Addison
+05770,"43.912406",-73.279162,Shoreham,VT,Addison
+05772,"43.756978",-72.730177,Stockbridge,VT,Windsor
+05773,"43.477386",-73.066066,Wallingford,VT,Rutland
+05774,"43.429363",-73.161826,Wells,VT,Rutland
+05775,"43.360006",-73.224211,West Pawlet,VT,Rutland
+05776,"43.026984",-73.055156,West Rupert,VT,Bennington
+05777,"43.588163",-73.065323,West Rutland,VT,Rutland
+05778,"43.893982",-73.203001,Whiting,VT,Addison
+05819,"44.426455",-72.114155,Saint Johnsbury,VT,Caledonia
+05820,"44.741679",-72.364639,Albany,VT,Orleans
+05821,"44.313675",-72.11879,Barnet,VT,Caledonia
+05822,"44.73663",-72.199084,Barton,VT,Orleans
+05823,"45.005783",-72.138347,Beebe Plain,VT,Orleans
+05824,"44.581613",-71.833956,Concord,VT,Essex
+05825,"44.775607",-72.22641,Coventry,VT,Orleans
+05826,"44.641663",-72.388928,Craftsbury,VT,Orleans
+05827,"44.678786",-72.35944,Craftsbury Common,VT,Orleans
+05828,"44.437306",-72.123508,Danville,VT,Caledonia
+05829,"44.952347",-72.218616,Derby,VT,Orleans
+05830,"44.97035",-72.036632,Derby Line,VT,Orleans
+05832,"44.587962",-71.910223,East Burke,VT,Caledonia
+05833,"44.775607",-72.22641,East Charleston,VT,Orleans
+05836,"44.496356",-72.17371,East Hardwick,VT,Caledonia
+05837,"44.667396",-71.813465,East Haven,VT,Essex
+05838,"44.468494",-71.930077,East Saint Johnsbury,VT,Caledonia
+05839,"44.679528",-72.221912,Glover,VT,Orleans
+05840,"44.680771",-71.719436,Granby,VT,Essex
+05841,"44.600325",-72.286556,Greensboro,VT,Orleans
+05842,"44.775607",-72.22641,Greensboro Bend,VT,Orleans
+05843,"44.51609",-72.309822,Hardwick,VT,Caledonia
+05845,"44.783177",-72.301139,Irasburg,VT,Orleans
+05846,"44.832535",-71.841125,Island Pond,VT,Essex
+05847,"44.788925",-72.439455,Lowell,VT,Orleans
+05848,"44.382103",-71.919518,Lower Waterford,VT,Caledonia
+05849,"44.497557",-71.950519,Lyndon,VT,Caledonia
+05850,"44.481915",-71.988258,Lyndon Center,VT,Caledonia
+05851,"44.5351",-72.056557,Lyndonville,VT,Caledonia
+05853,"44.878704",-71.971424,Morgan,VT,Orleans
+05855,"44.907921",-72.203948,Newport,VT,Orleans
+05857,"44.927018",-72.299191,Newport Center,VT,Orleans
+05858,"44.512087",-71.795986,North Concord,VT,Essex
+05859,"44.937769",-72.433354,North Troy,VT,Orleans
+05860,"44.823782",-72.102019,Orleans,VT,Orleans
+05861,"44.46239",-72.135804,Passumpsic,VT,Caledonia
+05862,"44.46239",-72.135804,Peacham,VT,Caledonia
+05863,"44.503403",-71.972088,Saint Johnsbury Center,VT,Caledonia
+05866,"44.639653",-72.132255,Sheffield,VT,Caledonia
+05867,"44.664521",-72.042415,Sutton,VT,Caledonia
+05868,"44.775607",-72.22641,Troy,VT,Orleans
+05871,"44.683041",-71.936817,West Burke,VT,Caledonia
+05872,"44.849402",-72.03121,West Charleston,VT,Orleans
+05873,"44.393366",-72.222424,West Danville,VT,Caledonia
+05874,"44.869117",-72.450485,Westfield,VT,Orleans
+05875,"44.710028",-72.258038,West Glover,VT,Orleans
+05901,"44.680771",-71.719436,Averill,VT,Essex
+05902,"44.680771",-71.719436,Beecher Falls,VT,Essex
+05903,"44.930787",-71.597809,Canaan,VT,Essex
+05904,"44.680771",-71.719436,Gilman,VT,Essex
+05905,"44.671187",-71.662213,Guildhall,VT,Essex
+05906,"44.680771",-71.719436,Lunenburg,VT,Essex
+05907,"44.932643",-71.776359,Norton,VT,Essex
+05001,"43.591821",-72.463589,White River Junction,VT,Windsor
+05009,"43.592039",-72.588407,White River Junction,VT,Windsor
+05030,"43.410672",-72.429777,Ascutney,VT,Windsor
+05031,"43.657625",-72.54586,Barnard,VT,Windsor
+05032,"43.758758",-72.688169,Bethel,VT,Windsor
+05033,"44.004691",-72.15845,Bradford,VT,Orange
+05034,"43.592527",-72.621578,Bridgewater,VT,Windsor
+05035,"43.599795",-72.675164,Bridgewater Corners,VT,Windsor
+05036,"44.017782",-72.577365,Brookfield,VT,Orange
+05037,"43.467179",-72.488285,Brownsville,VT,Windsor
+05038,"43.994212",-72.457153,Chelsea,VT,Orange
+05039,"44.033236",-72.293631,Corinth,VT,Orange
+05040,"44.077918",-72.210962,East Corinth,VT,Orange
+05041,"43.995961",-72.411393,East Randolph,VT,Orange
+05042,"44.359629",-72.086586,East Ryegate,VT,Caledonia
+05043,"43.807282",-72.214693,East Thetford,VT,Orange
+05045,"43.928681",-72.196635,Fairlee,VT,Orange
+05046,"44.281506",-72.207573,Groton,VT,Caledonia
+05047,"43.672103",-72.355539,Hartford,VT,Windsor
+05048,"43.573379",-72.402698,Hartland,VT,Windsor
+05049,"43.592039",-72.588407,Hartland Four Corners,VT,Windsor
+05050,"44.46239",-72.135804,Mc Indoe Falls,VT,Caledonia
+05051,"44.068284",-72.118739,Newbury,VT,Orange
+05052,"43.591324",-72.34903,North Hartland,VT,Windsor
+05053,"43.709919",-72.511882,North Pomfret,VT,Windsor
+05054,"43.995961",-72.411393,North Thetford,VT,Orange
+05055,"43.717918",-72.3612,Norwich,VT,Windsor
+05056,"43.526289",-72.724848,Plymouth,VT,Windsor
+05058,"43.995961",-72.411393,Post Mills,VT,Orange
+05059,"43.664059",-72.433116,Quechee,VT,Windsor
+05060,"43.985803",-72.694098,Randolph,VT,Orange
+05061,"43.928552",-72.569113,Randolph Center,VT,Orange
+05062,"43.47559",-72.572818,Reading,VT,Windsor
+05065,"43.777365",-72.407132,Sharon,VT,Windsor
+05067,"43.697055",-72.508042,South Pomfret,VT,Windsor
+05068,"43.777096",-72.528249,South Royalton,VT,Windsor
+05069,"44.19779",-72.110362,South Ryegate,VT,Caledonia
+05070,"43.844018",-72.378546,South Strafford,VT,Orange
+05071,"43.565888",-72.534106,South Woodstock,VT,Windsor
+05072,"43.892586",-72.369563,Strafford,VT,Orange
+05073,"43.630897",-72.48908,Taftsville,VT,Windsor
+05074,"43.995961",-72.411393,Thetford,VT,Orange
+05075,"43.854018",-72.254614,Thetford Center,VT,Orange
+05076,"43.995961",-72.411393,East Corinth,VT,Orange
+05077,"43.895465",-72.473372,Tunbridge,VT,Orange
+05079,"43.952586",-72.311252,Vershire,VT,Orange
+05081,"44.119395",-72.088869,Wells River,VT,Orange
+05083,"43.995961",-72.411393,West Fairlee,VT,Orange
+05084,"43.718535",-72.443862,West Hartford,VT,Windsor
+05085,"43.995961",-72.411393,West Newbury,VT,Orange
+05086,"44.115326",-72.317918,West Topsham,VT,Orange
+05088,"43.673484",-72.31196,Wilder,VT,Windsor
+05089,"43.5181",-72.418059,Windsor,VT,Windsor
+05091,"43.631348",-72.512835,Woodstock,VT,Windsor
+05101,"43.171185",-72.623106,Bellows Falls,VT,Windham
+05141,"42.99467",-72.720362,Cambridgeport,VT,Windham
+05142,"43.402135",-72.583854,Cavendish,VT,Windsor
+05143,"43.298315",-72.667167,Chester,VT,Windsor
+05144,"43.592039",-72.588407,Chester Depot,VT,Windsor
+05146,"43.179936",-72.605636,Grafton,VT,Windham
+05148,"43.228101",-72.787995,Londonderry,VT,Windham
+05149,"43.376744",-72.706913,Ludlow,VT,Windsor
+05150,"43.33803",-72.527652,North Springfield,VT,Windsor
+05151,"43.409654",-72.495851,Perkinsville,VT,Windsor
+05152,"43.09893",-73.034944,Peru,VT,Bennington
+05153,"43.439854",-72.620659,Proctorsville,VT,Windsor
+05154,"43.164738",-72.53194,Saxtons River,VT,Windham
+05155,"43.169854",-72.851525,South Londonderry,VT,Windham
+05156,"43.40971",-72.586064,Springfield,VT,Windsor
+05158,"43.082635",-72.474882,Westminster,VT,Windham
+05159,"43.093972",-72.456492,Westminster Station,VT,Windham
+05161,"43.316142",-72.739715,Weston,VT,Windsor
+05201,"42.934076",-73.105382,Bennington,VT,Bennington
+05250,"43.065719",-73.134727,Arlington,VT,Bennington
+05251,"43.261817",-73.139173,Dorset,VT,Bennington
+05252,"43.069409",-73.165898,East Arlington,VT,Bennington
+05253,"43.182502",-73.065443,East Dorset,VT,Bennington
+05254,"43.177204",-73.045787,Manchester,VT,Bennington
+05255,"43.169289",-73.047358,Manchester Center,VT,Bennington
+05257,"42.966471",-73.250529,North Bennington,VT,Bennington
+05260,"42.829469",-73.262496,North Pownal,VT,Bennington
+05261,"42.790682",-73.201254,Pownal,VT,Bennington
+05262,"42.979702",-73.192929,Shaftsbury,VT,Bennington
+05301,"42.884281",-72.760753,Brattleboro,VT,Windham
+05302,"42.99467",-72.720362,Brattleboro,VT,Windham
+05303,"42.99467",-72.720362,Brattleboro,VT,Windham
+05304,"42.99467",-72.720362,Brattleboro,VT,Windham
+05340,"43.16409",-72.91514,Bondville,VT,Bennington
+05341,"42.968046",-72.812012,East Dover,VT,Windham
+05342,"42.795363",-72.817838,Jacksonville,VT,Windham
+05343,"43.012776",-72.767275,Jamaica,VT,Windham
+05344,"42.99467",-72.720362,Marlboro,VT,Windham
+05345,"43.013138",-72.678725,Newfane,VT,Windham
+05346,"43.016096",-72.534025,Putney,VT,Windham
+05350,"42.785591",-72.971932,Readsboro,VT,Bennington
+05351,"42.939071",-72.72923,South Newfane,VT,Windham
+05352,"42.782616",-73.067501,Stamford,VT,Bennington
+05353,"43.070341",-72.672991,Townshend,VT,Windham
+05354,"42.773711",-72.520166,Vernon,VT,Windham
+05355,"43.00476",-72.792004,Wardsboro,VT,Windham
+05356,"43.013041",-72.793787,West Dover,VT,Windham
+05357,"42.957233",-72.62408,West Dummerston,VT,Windham
+05358,"42.766519",-72.745723,West Halifax,VT,Windham
+05359,"43.133864",-72.714573,West Townshend,VT,Windham
+05360,"43.050937",-72.825636,West Wardsboro,VT,Windham
+05361,"42.78318",-72.867891,Whitingham,VT,Windham
+05362,"42.975027",-72.673566,Williamsville,VT,Windham
+05363,"42.944039",-72.727518,Wilmington,VT,Windham
+05401,"44.507404",-73.151384,Burlington,VT,Chittenden
+05402,"44.442117",-73.082525,Burlington,VT,Chittenden
+05403,"44.448119",-73.098238,South Burlington,VT,Chittenden
+05404,"44.498032",-73.182158,Winooski,VT,Chittenden
+05405,"44.442117",-73.082525,Burlington,VT,Chittenden
+05406,"44.442117",-73.082525,Burlington,VT,Chittenden
+05407,"44.442117",-73.082525,South Burlington,VT,Chittenden
+05439,"44.49518",-73.165092,Colchester,VT,Chittenden
+05440,"44.93606",-73.289065,Alburg,VT,Grand Isle
+05441,"44.836967",-72.92169,Bakersfield,VT,Franklin
+05442,"44.724842",-72.701554,Belvidere Center,VT,Lamoille
+05443,"44.157814",-73.071813,Bristol,VT,Addison
+05444,"44.62218",-72.881162,Cambridge,VT,Lamoille
+05445,"44.31658",-73.226034,Charlotte,VT,Chittenden
+05446,"44.535557",-73.103897,Colchester,VT,Chittenden
+05447,"44.824855",-72.895849,East Berkshire,VT,Franklin
+05448,"44.741186",-72.882683,East Fairfield,VT,Franklin
+05449,"44.442117",-73.082525,Colchester,VT,Chittenden
+05450,"44.902044",-72.782425,Enosburg Falls,VT,Franklin
+05451,"44.50835",-73.050271,Essex,VT,Chittenden
+05452,"44.485558",-73.025271,Essex Junction,VT,Chittenden
+05453,"44.442117",-73.082525,Essex Junction,VT,Chittenden
+05454,"44.733486",-72.953478,Fairfax,VT,Franklin
+05455,"44.816159",-72.969743,Fairfield,VT,Franklin
+05456,"44.210886",-73.256629,Ferrisburg,VT,Addison
+05457,"44.96038",-72.913261,Franklin,VT,Franklin
+05458,"44.723391",-73.303193,Grand Isle,VT,Grand Isle
+05459,"44.962395",-73.033062,Highgate Center,VT,Franklin
+05460,"44.974765",-73.105205,Highgate Springs,VT,Franklin
+05461,"44.4553",-73.067858,Hinesburg,VT,Chittenden
+05462,"44.318091",-73.006184,Huntington,VT,Chittenden
+05463,"44.878094",-73.338597,Isle La Motte,VT,Grand Isle
+05464,"44.638789",-72.82199,Jeffersonville,VT,Lamoille
+05465,"44.458996",-72.955175,Jericho,VT,Chittenden
+05466,"44.362504",-73.019801,Jonesville,VT,Chittenden
+05468,"44.643418",-73.121685,Milton,VT,Chittenden
+05469,"44.240375",-73.134702,Monkton,VT,Addison
+05470,"44.824855",-72.895849,Montgomery,VT,Franklin
+05471,"44.848241",-72.619812,Montgomery Center,VT,Franklin
+05472,"44.149509",-73.197156,New Haven,VT,Addison
+05473,"44.239233",-73.205939,North Ferrisburg,VT,Addison
+05474,"44.835274",-73.277846,North Hero,VT,Grand Isle
+05476,"44.952669",-72.65435,Richford,VT,Franklin
+05477,"44.387289",-72.953283,Richmond,VT,Chittenden
+05478,"44.779982",-72.908985,Saint Albans,VT,Franklin
+05479,"44.824855",-72.895849,Saint Albans,VT,Franklin
+05481,"44.824855",-72.895849,Saint Albans Bay,VT,Franklin
+05482,"44.42493",-73.114047,Shelburne,VT,Chittenden
+05483,"44.897751",-72.961075,Sheldon,VT,Franklin
+05485,"44.905573",-72.963154,Sheldon Springs,VT,Franklin
+05486,"44.738156",-73.306352,South Hero,VT,Grand Isle
+05487,"44.235203",-73.02086,Starksboro,VT,Addison
+05488,"44.902128",-72.948391,Swanton,VT,Franklin
+05489,"44.565148",-72.907209,Underhill,VT,Chittenden
+05490,"44.504656",-72.885253,Underhill Center,VT,Chittenden
+05491,"44.145691",-73.260487,Vergennes,VT,Addison
+05492,"44.736083",-72.703199,Waterville,VT,Lamoille
+05494,"44.56959",-73.025541,Westford,VT,Chittenden
+05495,"44.430096",-73.026735,Williston,VT,Chittenden
+05601,"44.19906",-72.559638,Montpelier,VT,Washington
+05602,"44.26829",-72.623619,Montpelier,VT,Washington
+05603,"44.156554",-72.655892,Montpelier,VT,Washington
+05604,"44.259518",-72.585018,Montpelier,VT,Washington
+05609,"44.259518",-72.585018,Montpelier,VT,Washington
+05620,"44.259518",-72.585018,Montpelier,VT,Washington
+05633,"44.259518",-72.585018,Montpelier,VT,Washington
+05640,"44.174872",-72.502235,Adamant,VT,Washington
+05641,"44.20896",-72.607693,Barre,VT,Washington
+05647,"44.266228",-72.530473,Cabot,VT,Washington
+05648,"44.259518",-72.585018,Calais,VT,Washington
+05649,"44.157636",-72.453261,East Barre,VT,Washington
+05650,"44.407044",-72.498572,East Calais,VT,Washington
+05651,"44.279376",-72.49657,East Montpelier,VT,Washington
+05652,"44.718619",-72.57821,Eden,VT,Lamoille
+05653,"44.701158",-72.479642,Eden Mills,VT,Lamoille
+05654,"44.155438",-72.484706,Graniteville,VT,Washington
+05655,"44.560808",-72.590031,Hyde Park,VT,Lamoille
+05656,"44.642603",-72.735911,Johnson,VT,Lamoille
+05657,"44.599905",-72.647519,Lake Elmore,VT,Lamoille
+05658,"44.374874",-72.329902,Marshfield,VT,Washington
+05660,"44.270817",-72.786431,Moretown,VT,Washington
+05661,"44.560179",-72.615346,Morrisville,VT,Lamoille
+05662,"44.442001",-72.718759,Moscow,VT,Lamoille
+05663,"44.180906",-72.678854,Northfield,VT,Washington
+05664,"44.183536",-72.646591,Northfield Falls,VT,Washington
+05665,"44.67307",-72.597057,North Hyde Park,VT,Lamoille
+05666,"44.259518",-72.585018,North Montpelier,VT,Washington
+05667,"44.283708",-72.552243,Plainfield,VT,Washington
+05669,"44.028005",-73.089655,Roxbury,VT,Addison
+05670,"44.175744",-72.50247,South Barre,VT,Washington
+05671,"44.259518",-72.585018,Waterbury,VT,Washington
+05672,"44.535179",-72.660043,Stowe,VT,Lamoille
+05673,"44.192186",-72.843868,Waitsfield,VT,Washington
+05674,"44.217175",-72.820401,Warren,VT,Washington
+05675,"44.078238",-72.426322,Washington,VT,Orange
+05676,"44.259608",-72.781143,Waterbury,VT,Washington
+05677,"44.389313",-72.708616,Waterbury Center,VT,Washington
+05678,"44.155782",-72.46581,Websterville,VT,Washington
+05679,"44.103841",-72.526916,Williamstown,VT,Orange
+05680,"44.539539",-72.487589,Wolcott,VT,Lamoille
+05681,"44.259518",-72.585018,Woodbury,VT,Washington
+05682,"44.343536",-72.575645,Worcester,VT,Washington
+05701,"43.630346",-72.93586,Rutland,VT,Rutland
+05702,"43.412792",-72.990632,Rutland,VT,Rutland
+05730,"43.420978",-72.828524,Belmont,VT,Rutland
+05731,"43.687677",-73.291868,Benson,VT,Rutland
+05732,"43.643723",-73.209356,Bomoseen,VT,Rutland
+05733,"43.655139",-73.121251,Brandon,VT,Rutland
+05734,"43.982512",-73.331483,Bridport,VT,Addison
+05735,"43.636856",-73.126638,Castleton,VT,Rutland
+05736,"43.594106",-73.008253,Center Rutland,VT,Rutland
+05737,"43.713218",-72.925199,Chittenden,VT,Rutland
+05738,"43.526706",-72.869165,Cuttingsville,VT,Rutland
+05739,"43.34792",-73.027985,Danby,VT,Rutland
+05740,"43.97153",-73.091416,East Middlebury,VT,Addison
+05741,"43.592039",-72.818121,East Poultney,VT,Rutland
+05742,"43.446092",-72.92087,East Wallingford,VT,Rutland
+05743,"43.634258",-73.182585,Fair Haven,VT,Rutland
+05744,"43.576783",-73.107352,Florence,VT,Rutland
+05745,"43.592039",-72.818121,Forest Dale,VT,Rutland
+05746,"43.592039",-72.588407,Gaysville,VT,Windsor
+05747,"44.0032",-72.817108,Granville,VT,Addison
+05748,"43.907858",-72.890031,Hancock,VT,Addison
+05750,"43.599381",-73.25104,Hydeville,VT,Rutland
+05751,"43.656951",-72.782713,Killington,VT,Rutland
+05753,"43.991942",-73.171578,Middlebury,VT,Addison
+05757,"43.478301",-73.060391,Middletown Springs,VT,Rutland
+05758,"43.444535",-72.802413,Mount Holly,VT,Rutland
+05759,"43.535739",-72.970114,North Clarendon,VT,Rutland
+05760,"43.863158",-73.242322,Orwell,VT,Addison
+05761,"43.361439",-73.150683,Pawlet,VT,Rutland
+05762,"43.592039",-72.818121,Pittsfield,VT,Rutland
+05763,"43.72182",-72.999461,Pittsford,VT,Rutland
+05764,"43.525395",-73.112878,Poultney,VT,Rutland
+05765,"43.601975",-73.09589,Proctor,VT,Rutland
+05766,"43.979315",-73.010663,Ripton,VT,Addison
+05767,"43.866832",-72.851495,Rochester,VT,Windsor
+05768,"43.026984",-73.055156,Rupert,VT,Bennington
+05769,"43.920297",-73.122709,Salisbury,VT,Addison
+05770,"43.912406",-73.279162,Shoreham,VT,Addison
+05772,"43.756978",-72.730177,Stockbridge,VT,Windsor
+05773,"43.477386",-73.066066,Wallingford,VT,Rutland
+05774,"43.429363",-73.161826,Wells,VT,Rutland
+05775,"43.360006",-73.224211,West Pawlet,VT,Rutland
+05776,"43.026984",-73.055156,West Rupert,VT,Bennington
+05777,"43.588163",-73.065323,West Rutland,VT,Rutland
+05778,"43.893982",-73.203001,Whiting,VT,Addison
+05819,"44.426455",-72.114155,Saint Johnsbury,VT,Caledonia
+05820,"44.741679",-72.364639,Albany,VT,Orleans
+05821,"44.313675",-72.11879,Barnet,VT,Caledonia
+05822,"44.73663",-72.199084,Barton,VT,Orleans
+05823,"45.005783",-72.138347,Beebe Plain,VT,Orleans
+05824,"44.581613",-71.833956,Concord,VT,Essex
+05825,"44.775607",-72.22641,Coventry,VT,Orleans
+05826,"44.641663",-72.388928,Craftsbury,VT,Orleans
+05827,"44.678786",-72.35944,Craftsbury Common,VT,Orleans
+05828,"44.437306",-72.123508,Danville,VT,Caledonia
+05829,"44.952347",-72.218616,Derby,VT,Orleans
+05830,"44.97035",-72.036632,Derby Line,VT,Orleans
+05832,"44.587962",-71.910223,East Burke,VT,Caledonia
+05833,"44.775607",-72.22641,East Charleston,VT,Orleans
+05836,"44.496356",-72.17371,East Hardwick,VT,Caledonia
+05837,"44.667396",-71.813465,East Haven,VT,Essex
+05838,"44.468494",-71.930077,East Saint Johnsbury,VT,Caledonia
+05839,"44.679528",-72.221912,Glover,VT,Orleans
+05840,"44.680771",-71.719436,Granby,VT,Essex
+05841,"44.600325",-72.286556,Greensboro,VT,Orleans
+05842,"44.775607",-72.22641,Greensboro Bend,VT,Orleans
+05843,"44.51609",-72.309822,Hardwick,VT,Caledonia
+05845,"44.783177",-72.301139,Irasburg,VT,Orleans
+05846,"44.832535",-71.841125,Island Pond,VT,Essex
+05847,"44.788925",-72.439455,Lowell,VT,Orleans
+05848,"44.382103",-71.919518,Lower Waterford,VT,Caledonia
+05849,"44.497557",-71.950519,Lyndon,VT,Caledonia
+05850,"44.481915",-71.988258,Lyndon Center,VT,Caledonia
+05851,"44.5351",-72.056557,Lyndonville,VT,Caledonia
+05853,"44.878704",-71.971424,Morgan,VT,Orleans
+05855,"44.907921",-72.203948,Newport,VT,Orleans
+05857,"44.927018",-72.299191,Newport Center,VT,Orleans
+05858,"44.512087",-71.795986,North Concord,VT,Essex
+05859,"44.937769",-72.433354,North Troy,VT,Orleans
+05860,"44.823782",-72.102019,Orleans,VT,Orleans
+05861,"44.46239",-72.135804,Passumpsic,VT,Caledonia
+05862,"44.46239",-72.135804,Peacham,VT,Caledonia
+05863,"44.503403",-71.972088,Saint Johnsbury Center,VT,Caledonia
+05866,"44.639653",-72.132255,Sheffield,VT,Caledonia
+05867,"44.664521",-72.042415,Sutton,VT,Caledonia
+05868,"44.775607",-72.22641,Troy,VT,Orleans
+05871,"44.683041",-71.936817,West Burke,VT,Caledonia
+05872,"44.849402",-72.03121,West Charleston,VT,Orleans
+05873,"44.393366",-72.222424,West Danville,VT,Caledonia
+05874,"44.869117",-72.450485,Westfield,VT,Orleans
+05875,"44.710028",-72.258038,West Glover,VT,Orleans
+05901,"44.680771",-71.719436,Averill,VT,Essex
+05902,"44.680771",-71.719436,Beecher Falls,VT,Essex
+05903,"44.930787",-71.597809,Canaan,VT,Essex
+05904,"44.680771",-71.719436,Gilman,VT,Essex
+05905,"44.671187",-71.662213,Guildhall,VT,Essex
+05906,"44.680771",-71.719436,Lunenburg,VT,Essex
+05907,"44.932643",-71.776359,Norton,VT,Essex

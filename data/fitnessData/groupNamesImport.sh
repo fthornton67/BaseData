@@ -1,0 +1,1 @@
+mongoimport --db phitrme-dev --collection phitr_muscle_groups --type json --file muscleGroups.json

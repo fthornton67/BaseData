@@ -1,0 +1,264 @@
+for real!
+forking  0
+forking  1
+Mean app started on port 3000 (production) cluster.worker.id: 2
+Mean app started on port 3000 (production) cluster.worker.id: 1
+[0mGET / [36m304 [0m73.439 ms - -[0m
+[0mGET / [32m200 [0m76.051 ms - -[0m
+[0mGET /modules/aggregated.css [36m304 [0m9.851 ms - -[0m
+[0mGET /modules/aggregated.js?group=header [36m304 [0m13.604 ms - -[0m
+[0mGET /modules/aggregated.js [32m200 [0m61.722 ms - -[0m
+[0mGET /_getModules [36m304 [0m4.667 ms - -[0m
+[0mGET /phitr/views/p/head.html [36m304 [0m7.899 ms - -[0m
+[0mGET /phitr/views/p/account.html [36m304 [0m6.873 ms - -[0m
+[0mGET /phitr/views/home/index.html [36m304 [0m10.727 ms - -[0m
+[0mGET /phitr/views/p/AnnoHead.html [36m304 [0m3.999 ms - -[0m
+[0mGET /phitr/views/p/AuthHead.html [36m304 [0m4.894 ms - -[0m
+[0mGET /phitr/views/p/scrollToTop.html [36m304 [0m2.953 ms - -[0m
+[0mGET /phitr/views/p/banner.html [36m304 [0m3.170 ms - -[0m
+[0mGET /phitr/views/home/about.html [36m304 [0m4.141 ms - -[0m
+[0mGET /phitr/views/home/services.html [36m304 [0m20.763 ms - -[0m
+[0mGET /phitr/views/home/portfolio.html [36m304 [0m21.706 ms - -[0m
+[0mGET /phitr/views/home/clients.html [36m304 [0m20.329 ms - -[0m
+[0mGET /phitr/views/home/footer.html [36m304 [0m1.725 ms - -[0m
+[0mGET /phitr/assets/images/phitrLogo_white.png [36m304 [0m1.813 ms - -[0m
+[0mGET /phitr/assets/images/fitness_banner.png [36m304 [0m1.979 ms - -[0m
+[0mGET /phitr/views/home/aboutCollapse.html [36m304 [0m3.491 ms - -[0m
+[0mGET /phitr/assets/images/section-image-1.png [36m304 [0m2.978 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-2.png [36m304 [0m2.121 ms - -[0m
+[0mGET /phitr/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 [36m304 [0m24.195 ms - -[0m
+[0mGET /phitr/assets/images/bg-image-1.jpg [36m304 [0m22.366 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-3.png [36m304 [0m3.396 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-1.png [36m304 [0m2.931 ms - -[0m
+[0mGET /phitr/assets/images/client-1.png [36m304 [0m4.470 ms - -[0m
+[0mGET /phitr/assets/images/client-2.png [36m304 [0m1.781 ms - -[0m
+[0mGET /phitr/assets/images/client-3.png [36m304 [0m2.635 ms - -[0m
+[0mGET /phitr/assets/images/client-4.png [36m304 [0m2.453 ms - -[0m
+[0mGET /phitr/assets/images/client-6.png [36m304 [0m3.077 ms - -[0m
+[0mGET /phitr/assets/images/client-5.png [36m304 [0m2.660 ms - -[0m
+[0mGET /phitr/assets/images/bg-image-2.jpg [36m304 [0m7.221 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-2.jpg [36m304 [0m11.482 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-1.jpg [36m304 [0m7.350 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-4.jpg [36m304 [0m2.150 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-3.jpg [36m304 [0m3.340 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-5.jpg [36m304 [0m2.490 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-6.jpg [36m304 [0m13.307 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-7.jpg [36m304 [0m3.656 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-8.jpg [36m304 [0m4.826 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-9.jpg [36m304 [0m1.992 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-10.jpg [36m304 [0m2.045 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-11.jpg [36m304 [0m21.656 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-12.jpg [36m304 [0m5.064 ms - -[0m
+[0mGET /phitr/views/dialogs/login.tpl.html [36m304 [0m2.465 ms - -[0m
+[0mGET /phitr/views/dialogs/dialog.html [36m304 [0m3.523 ms - -[0m
+[0mGET /phitr/views/dialogs/dialog.join.html [36m304 [0m4.685 ms - -[0m
+[0mGET /get-config [36m304 [0m4.825 ms - -[0m
+[0mGET /theme/assets/fonts/ufonts.com_futura-book.woff [36m304 [0m2.595 ms - -[0m
+[0mGET /theme/assets/img/mail_login.png [36m304 [0m2.416 ms - -[0m
+[0mGET /theme/assets/fonts/opensanshebrew-regular.woff [36m304 [0m2.242 ms - -[0m
+[0mGET /theme/assets/fonts/mark_simonson_-_proxima_nova_regular.woff [36m304 [0m7.249 ms - -[0m
+[0mGET /theme/assets/img/eye_password.png [36m304 [0m3.728 ms - -[0m
+[0mGET /theme/assets/fonts/proximanova-light.woff [36m304 [0m3.640 ms - -[0m
+[0mGET /get-config [36m304 [0m4.547 ms - -[0m
+[0mGET /theme/assets/fonts/opensanshebrew-light.woff [36m304 [0m2.804 ms - -[0m
+[0mGET /theme/assets/img/devide_line_long.png [36m304 [0m2.688 ms - -[0m
+[0mGET /theme/assets/img/button_login.png [36m304 [0m4.259 ms - -[0m
+[0mGET /theme/assets/img/social_fb.png [36m304 [0m1.825 ms - -[0m
+[0mGET /theme/assets/img/woman_ninja.png [36m304 [0m1.959 ms - -[0m
+[0mGET /theme/assets/img/devide_line.png [36m304 [0m2.574 ms - -[0m
+[0mGET /auth/facebook [36m302 [0m7.649 ms - 0[0m
+createCredentials() is deprecated, use tls.createSecureContext instead
+
+/_prod/phitr_us_v3/node_modules/parse/build/parse-latest.js:1606
+      throw "You must specify your applicationId using Parse.initialize.";
+      ^
+You must specify your applicationId using Parse.initialize.
+Worker 2 died :(
+Mean app started on port 3000 (production) cluster.worker.id: 3
+[0mGET / [36m304 [0m5.881 ms - -[0m
+[0mGET /modules/aggregated.js?group=header [36m304 [0m3.820 ms - -[0m
+[0mGET /modules/aggregated.css [36m304 [0m22.115 ms - -[0m
+[0mGET /modules/aggregated.js [32m200 [0m75.065 ms - -[0m
+[0mGET /_getModules [36m304 [0m5.595 ms - -[0m
+[0mGET /phitr/views/p/account.html [36m304 [0m2.541 ms - -[0m
+[0mGET /phitr/views/home/index.html [36m304 [0m3.138 ms - -[0m
+[0mGET /phitr/views/p/head.html [36m304 [0m11.846 ms - -[0m
+[0mGET /phitr/views/p/banner.html [36m304 [0m10.301 ms - -[0m
+[0mGET /phitr/views/home/clients.html [36m304 [0m10.396 ms - -[0m
+[0mGET /phitr/views/home/about.html [36m304 [0m5.479 ms - -[0m
+[0mGET /phitr/views/home/portfolio.html [36m304 [0m8.382 ms - -[0m
+[0mGET /phitr/views/home/services.html [36m304 [0m2.538 ms - -[0m
+[0mGET /phitr/views/home/footer.html [36m304 [0m2.747 ms - -[0m
+[0mGET /phitr/views/p/AuthHead.html [36m304 [0m6.169 ms - -[0m
+[0mGET /phitr/views/p/scrollToTop.html [36m304 [0m4.296 ms - -[0m
+[0mGET /phitr/views/p/AnnoHead.html [36m304 [0m7.318 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-1.png [36m304 [0m2.813 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-2.png [36m304 [0m4.271 ms - -[0m
+[0mGET /phitr/assets/images/fitness_banner.png [36m304 [0m1.932 ms - -[0m
+[0mGET /phitr/views/home/aboutCollapse.html [36m304 [0m9.824 ms - -[0m
+[0mGET /phitr/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 [36m304 [0m6.056 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-3.png [36m304 [0m7.740 ms - -[0m
+[0mGET /phitr/assets/images/client-2.png [36m304 [0m2.278 ms - -[0m
+[0mGET /phitr/assets/images/client-1.png [36m304 [0m3.125 ms - -[0m
+[0mGET /phitr/assets/images/phitrLogo_white.png [36m304 [0m4.284 ms - -[0m
+[0mGET /phitr/assets/images/client-4.png [36m304 [0m2.843 ms - -[0m
+[0mGET /phitr/assets/images/client-5.png [36m304 [0m6.427 ms - -[0m
+[0mGET /phitr/assets/images/section-image-1.png [36m304 [0m4.671 ms - -[0m
+[0mGET /phitr/assets/images/client-6.png [36m304 [0m3.993 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-1.jpg [36m304 [0m2.675 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-2.jpg [36m304 [0m18.052 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-4.jpg [36m304 [0m1.840 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-3.jpg [36m304 [0m6.294 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-5.jpg [36m304 [0m2.225 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-6.jpg [36m304 [0m2.477 ms - -[0m
+[0mGET /phitr/assets/images/client-3.png [36m304 [0m8.737 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-9.jpg [36m304 [0m2.294 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-10.jpg [36m304 [0m6.574 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-8.jpg [36m304 [0m6.106 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-7.jpg [36m304 [0m2.810 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-11.jpg [36m304 [0m1.895 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-12.jpg [36m304 [0m3.935 ms - -[0m
+[0mGET /phitr/assets/images/bg-image-2.jpg [36m304 [0m4.179 ms - -[0m
+[0mGET /phitr/assets/images/bg-image-1.jpg [36m304 [0m2.031 ms - -[0m
+[0mGET / [36m304 [0m4.697 ms - -[0m
+[0mGET /modules/aggregated.css [36m304 [0m5.564 ms - -[0m
+[0mGET /modules/aggregated.js?group=header [36m304 [0m3.289 ms - -[0m
+[0mGET /modules/aggregated.js [32m200 [0m65.648 ms - -[0m
+[0mGET /_getModules [36m304 [0m3.028 ms - -[0m
+[0mGET /phitr/views/home/index.html [36m304 [0m2.559 ms - -[0m
+[0mGET /phitr/views/p/account.html [36m304 [0m4.621 ms - -[0m
+[0mGET /phitr/views/p/head.html [36m304 [0m2.552 ms - -[0m
+[0mGET /phitr/views/home/about.html [36m304 [0m4.611 ms - -[0m
+[0mGET /phitr/views/home/clients.html [36m304 [0m9.931 ms - -[0m
+[0mGET /phitr/views/home/footer.html [36m304 [0m6.732 ms - -[0m
+[0mGET /phitr/views/home/portfolio.html [36m304 [0m3.966 ms - -[0m
+[0mGET /phitr/views/p/banner.html [36m304 [0m3.358 ms - -[0m
+[0mGET /phitr/views/home/services.html [36m304 [0m4.207 ms - -[0m
+[0mGET /phitr/views/p/AuthHead.html [36m304 [0m4.731 ms - -[0m
+[0mGET /phitr/views/p/AnnoHead.html [36m304 [0m3.655 ms - -[0m
+[0mGET /phitr/views/p/scrollToTop.html [36m304 [0m9.156 ms - -[0m
+[0mGET /phitr/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 [36m304 [0m4.060 ms - -[0m
+[0mGET /phitr/assets/images/section-image-1.png [36m304 [0m3.160 ms - -[0m
+[0mGET /phitr/views/home/aboutCollapse.html [36m304 [0m1.616 ms - -[0m
+[0mGET /phitr/assets/images/fitness_banner.png [36m304 [0m5.845 ms - -[0m
+[0mGET /phitr/assets/images/phitrLogo_white.png [36m304 [0m11.370 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-1.png [36m304 [0m6.475 ms - -[0m
+[0mGET /phitr/assets/images/client-1.png [36m304 [0m2.043 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-3.png [36m304 [0m10.235 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-2.png [36m304 [0m6.529 ms - -[0m
+[0mGET /phitr/assets/images/client-2.png [36m304 [0m3.105 ms - -[0m
+[0mGET /phitr/assets/images/client-5.png [36m304 [0m5.592 ms - -[0m
+[0mGET /phitr/assets/images/client-3.png [36m304 [0m4.509 ms - -[0m
+[0mGET /phitr/assets/images/client-4.png [36m304 [0m4.664 ms - -[0m
+[0mGET /phitr/assets/images/bg-image-2.jpg [36m304 [0m3.115 ms - -[0m
+[0mGET /phitr/assets/images/client-6.png [36m304 [0m4.449 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-1.jpg [36m304 [0m8.439 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-2.jpg [36m304 [0m2.315 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-3.jpg [36m304 [0m1.621 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-4.jpg [36m304 [0m1.629 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-5.jpg [36m304 [0m3.224 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-6.jpg [36m304 [0m2.519 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-7.jpg [36m304 [0m2.495 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-8.jpg [36m304 [0m2.689 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-9.jpg [36m304 [0m4.382 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-10.jpg [36m304 [0m2.043 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-11.jpg [36m304 [0m13.152 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-12.jpg [36m304 [0m2.529 ms - -[0m
+[0mGET /phitr/assets/images/bg-image-1.jpg [36m304 [0m4.532 ms - -[0m
+[0mGET /phitr/views/dialogs/dialog.html [36m304 [0m2.296 ms - -[0m
+[0mGET /phitr/views/dialogs/login.tpl.html [36m304 [0m3.238 ms - -[0m
+[0mGET /phitr/views/dialogs/dialog.join.html [36m304 [0m1.806 ms - -[0m
+[0mGET /get-config [36m304 [0m5.277 ms - -[0m
+[0mGET /theme/assets/fonts/ufonts.com_futura-book.woff [36m304 [0m2.827 ms - -[0m
+[0mGET /theme/assets/img/mail_login.png [36m304 [0m3.170 ms - -[0m
+[0mGET /theme/assets/fonts/mark_simonson_-_proxima_nova_regular.woff [36m304 [0m2.374 ms - -[0m
+[0mGET /theme/assets/img/eye_password.png [36m304 [0m4.008 ms - -[0m
+[0mGET /theme/assets/fonts/opensanshebrew-regular.woff [36m304 [0m2.120 ms - -[0m
+[0mGET /theme/assets/fonts/proximanova-light.woff [36m304 [0m2.001 ms - -[0m
+[0mGET /get-config [36m304 [0m2.118 ms - -[0m
+[0mGET /theme/assets/img/devide_line_long.png [36m304 [0m1.632 ms - -[0m
+[0mGET /theme/assets/fonts/opensanshebrew-light.woff [36m304 [0m2.097 ms - -[0m
+[0mGET /theme/assets/img/button_login.png [36m304 [0m1.778 ms - -[0m
+[0mGET /theme/assets/img/social_fb.png [36m304 [0m2.268 ms - -[0m
+[0mGET /theme/assets/img/woman_ninja.png [36m304 [0m1.540 ms - -[0m
+[0mGET /theme/assets/img/devide_line.png [36m304 [0m7.133 ms - -[0m
+[0mGET /auth/facebook [36m302 [0m3.204 ms - 0[0m
+createCredentials() is deprecated, use tls.createSecureContext instead
+
+/_prod/phitr_us_v3/node_modules/parse/build/parse-latest.js:1606
+      throw "You must specify your applicationId using Parse.initialize.";
+      ^
+You must specify your applicationId using Parse.initialize.
+Worker 3 died :(
+Mean app started on port 3000 (production) cluster.worker.id: 4
+[0mGET / [36m304 [0m4.999 ms - -[0m
+[0mGET /modules/aggregated.js?group=header [36m304 [0m4.630 ms - -[0m
+[0mGET /modules/aggregated.js [32m200 [0m45.590 ms - -[0m
+[0mGET /modules/aggregated.css [36m304 [0m29.327 ms - -[0m
+[0mGET /_getModules [36m304 [0m1.851 ms - -[0m
+[0mGET /phitr/views/p/account.html [36m304 [0m1.952 ms - -[0m
+[0mGET /phitr/views/p/head.html [36m304 [0m12.312 ms - -[0m
+[0mGET /phitr/views/home/index.html [36m304 [0m6.135 ms - -[0m
+[0mGET /phitr/views/p/AnnoHead.html [36m304 [0m2.463 ms - -[0m
+[0mGET /phitr/views/p/AuthHead.html [36m304 [0m1.632 ms - -[0m
+[0mGET /phitr/views/p/scrollToTop.html [36m304 [0m2.496 ms - -[0m
+[0mGET /phitr/views/home/services.html [36m304 [0m3.385 ms - -[0m
+[0mGET /phitr/views/home/about.html [36m304 [0m8.435 ms - -[0m
+[0mGET /phitr/views/p/banner.html [36m304 [0m3.154 ms - -[0m
+[0mGET /phitr/views/home/portfolio.html [36m304 [0m4.034 ms - -[0m
+[0mGET /phitr/views/home/footer.html [36m304 [0m1.645 ms - -[0m
+[0mGET /phitr/views/home/clients.html [36m304 [0m8.907 ms - -[0m
+[0mGET /phitr/assets/images/fitness_banner.png [36m304 [0m20.967 ms - -[0m
+[0mGET /phitr/assets/images/phitrLogo_white.png [36m304 [0m21.381 ms - -[0m
+[0mGET /phitr/views/home/aboutCollapse.html [36m304 [0m4.947 ms - -[0m
+[0mGET /phitr/assets/images/bg-image-1.jpg [36m304 [0m2.087 ms - -[0m
+[0mGET /phitr/assets/images/section-image-1.png [36m304 [0m3.547 ms - -[0m
+[0mGET /phitr/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 [36m304 [0m2.510 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-1.jpg [36m304 [0m1.632 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-2.jpg [36m304 [0m12.713 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-3.jpg [36m304 [0m9.850 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-4.jpg [36m304 [0m4.308 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-5.jpg [36m304 [0m2.601 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-6.jpg [36m304 [0m1.753 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-7.jpg [36m304 [0m2.642 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-8.jpg [36m304 [0m2.351 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-9.jpg [36m304 [0m2.412 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-10.jpg [36m304 [0m2.766 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-12.jpg [36m304 [0m1.910 ms - -[0m
+[0mGET /phitr/assets/images/portfolio-11.jpg [36m304 [0m2.921 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-2.png [36m304 [0m19.011 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-3.png [36m304 [0m19.105 ms - -[0m
+[0mGET /phitr/assets/images/testimonial-1.png [36m304 [0m17.406 ms - -[0m
+[0mGET /phitr/assets/images/client-2.png [36m304 [0m9.352 ms - -[0m
+[0mGET /phitr/assets/images/client-1.png [36m304 [0m3.392 ms - -[0m
+[0mGET /phitr/assets/images/client-3.png [36m304 [0m3.182 ms - -[0m
+[0mGET /phitr/assets/images/client-5.png [36m304 [0m2.154 ms - -[0m
+[0mGET /phitr/assets/images/client-6.png [36m304 [0m6.026 ms - -[0m
+[0mGET /phitr/assets/images/client-4.png [36m304 [0m3.311 ms - -[0m
+[0mGET /phitr/assets/images/bg-image-2.jpg [36m304 [0m1.806 ms - -[0m
+[0mGET /modules/aggregated.css [36m304 [0m3.613 ms - -[0m
+[0mGET /phitr/views/dialogs/dialog.html [36m304 [0m2.187 ms - -[0m
+[0mGET /phitr/views/dialogs/login.tpl.html [36m304 [0m3.415 ms - -[0m
+[0mGET /phitr/views/dialogs/dialog.join.html [36m304 [0m3.360 ms - -[0m
+[0mGET /get-config [36m304 [0m4.617 ms - -[0m
+[0mGET /theme/assets/img/mail_login.png [36m304 [0m5.648 ms - -[0m
+[0mGET /theme/assets/fonts/opensanshebrew-regular.woff [36m304 [0m3.409 ms - -[0m
+[0mGET /theme/assets/fonts/ufonts.com_futura-book.woff [36m304 [0m8.116 ms - -[0m
+[0mGET /theme/assets/fonts/mark_simonson_-_proxima_nova_regular.woff [36m304 [0m5.673 ms - -[0m
+[0mGET /theme/assets/img/eye_password.png [36m304 [0m5.639 ms - -[0m
+[0mGET /theme/assets/fonts/proximanova-light.woff [36m304 [0m17.656 ms - -[0m
+[0mGET /get-config [36m304 [0m2.927 ms - -[0m
+[0mGET /theme/assets/img/devide_line_long.png [36m304 [0m2.557 ms - -[0m
+[0mGET /theme/assets/img/button_login.png [36m304 [0m2.876 ms - -[0m
+[0mGET /theme/assets/fonts/opensanshebrew-light.woff [36m304 [0m1.735 ms - -[0m
+[0mGET /theme/assets/img/social_fb.png [36m304 [0m3.926 ms - -[0m
+[0mGET /theme/assets/img/woman_ninja.png [36m304 [0m2.695 ms - -[0m
+[0mGET /theme/assets/img/devide_line.png [36m304 [0m3.791 ms - -[0m
+[0mGET /auth/facebook [36m302 [0m6.747 ms - 0[0m
+createCredentials() is deprecated, use tls.createSecureContext instead
+
+/_prod/phitr_us_v3/node_modules/parse/build/parse-latest.js:1606
+      throw "You must specify your applicationId using Parse.initialize.";
+      ^
+You must specify your applicationId using Parse.initialize.
+Worker 1 died :(

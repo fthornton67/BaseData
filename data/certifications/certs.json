@@ -1,0 +1,950 @@
+<div  >
+	<div>
+		<label>- Select Agency (All) -</label>
+	</div>
+	<div  >
+		<label  ></label>
+	</div>
+	<div  >
+		<label  >AAAI-ISMA</label>
+	</div>
+	<div  >
+		<label  >AACN</label>
+	</div>
+	<div  >
+		<label  >AAHF</label>
+	</div>
+	<div  >
+		<label  >AAHFRP</label>
+	</div>
+	<div  >
+		<label  >AAPT</label>
+	</div>
+	<div  >
+		<label  >AAPTE</label>
+	</div>
+	<div  >
+		<label  >AASFP</label>
+	</div>
+	<div  >
+		<label  >ACE</label>
+	</div>
+	<div  >
+		<label  >ACSM</label>
+	</div>
+	<div  >
+		<label  >ACTION</label>
+	</div>
+	<div  >
+		<label  >AEA</label>
+	</div>
+	<div  >
+		<label  >AFAA</label>
+	</div>
+	<div  >
+		<label  >AFLCA</label>
+	</div>
+	<div  >
+		<label  >AFNA</label>
+	</div>
+	<div  >
+		<label  >AFPA</label>
+	</div>
+	<div  >
+		<label  >Ageless Grace</label>
+	</div>
+	<div  >
+		<label  >AIFE</label>
+	</div>
+	<div  >
+		<label  >AK</label>
+	</div>
+	<div  >
+		<label  >Alan Herdman Pilates</label>
+	</div>
+	<div  >
+		<label  >Alexander Technique</label>
+	</div>
+	<div  >
+		<label  >All American Pilates</label>
+	</div>
+	<div  >
+		<label  >AMFPT</label>
+	</div>
+	<div  >
+		<label  >AND</label>
+	</div>
+	<div  >
+		<label  >ANWA</label>
+	</div>
+	<div  >
+		<label  >Arthritis Foundation</label>
+	</div>
+	<div  >
+		<label  >ASCA</label>
+	</div>
+	<div  >
+		<label  >ASFA</label>
+	</div>
+	<div  >
+		<label  >ATI</label>
+	</div>
+	<div  >
+		<label  >ATRI</label>
+	</div>
+	<div  >
+		<label  >Aura Wellness</label>
+	</div>
+	<div  >
+		<label  >BA</label>
+	</div>
+	<div  >
+		<label  >Balanced Body®</label>
+	</div>
+	<div  >
+		<label  >Bar Fitness Online Ballet Barre Teacher Training and Certification</label>
+	</div>
+	<div  >
+		<label  >BASI</label>
+	</div>
+	<div  >
+		<label  >BB</label>
+	</div>
+	<div  >
+		<label  >BCRPA</label>
+	</div>
+	<div  >
+		<label  >Beachbody</label>
+	</div>
+	<div  >
+		<label  >Beaming</label>
+	</div>
+	<div  >
+		<label  >Bender Training Academy</label>
+	</div>
+	<div  >
+		<label  >Better Bones &amp; Balance™</label>
+	</div>
+	<div  >
+		<label  >BFI</label>
+	</div>
+	<div  >
+		<label  >Board of Physical Therapy Examiners, Maryland</label>
+	</div>
+	<div  >
+		<label  >BOC</label>
+	</div>
+	<div  >
+		<label  >Bodyblade</label>
+	</div>
+	<div  >
+		<label  >Bombay Jam</label>
+	</div>
+	<div  >
+		<label  >Booty Barre®</label>
+	</div>
+	<div  >
+		<label  >BOSU</label>
+	</div>
+	<div  >
+		<label  >BT</label>
+	</div>
+	<div  >
+		<label  >BTS</label>
+	</div>
+	<div  >
+		<label  >Burn with Kearns</label>
+	</div>
+	<div  >
+		<label  >BWI</label>
+	</div>
+	<div  >
+		<label  >C.O.R.E</label>
+	</div>
+	<div  >
+		<label  >CABARRET Barre and Dance Fitness</label>
+	</div>
+	<div  >
+		<label  >Cancer Exercise Training Institute</label>
+	</div>
+	<div  >
+		<label  >canfitpro</label>
+	</div>
+	<div  >
+		<label  >Catalyst Coaching Institute</label>
+	</div>
+	<div  >
+		<label  >CCA</label>
+	</div>
+	<div  >
+		<label  >CDR</label>
+	</div>
+	<div  >
+		<label  >CFES</label>
+	</div>
+	<div  >
+		<label  >CFVT</label>
+	</div>
+	<div  >
+		<label  >CHEK</label>
+	</div>
+	<div  >
+		<label  >Chi Running &amp; Walking</label>
+	</div>
+	<div  >
+		<label  >CI</label>
+	</div>
+	<div  >
+		<label  >COPS-KT</label>
+	</div>
+	<div  >
+		<label  >Core Dynamic Pilates</label>
+	</div>
+	<div  >
+		<label  >Core Pilates NYC</label>
+	</div>
+	<div  >
+		<label  >CoreFitnessRoller</label>
+	</div>
+	<div  >
+		<label  >CorePower Yoga</label>
+	</div>
+	<div  >
+		<label  >CORE™</label>
+	</div>
+	<div  >
+		<label  >CPTN</label>
+	</div>
+	<div  >
+		<label  >CrossCore</label>
+	</div>
+	<div  >
+		<label  >CrossFit</label>
+	</div>
+	<div  >
+		<label  >CSCCa</label>
+	</div>
+	<div  >
+		<label  >CSEP</label>
+	</div>
+	<div  >
+		<label  >Cycleops</label>
+	</div>
+	<div  >
+		<label  >Cycling Fusion</label>
+	</div>
+	<div  >
+		<label  >DA</label>
+	</div>
+	<div  >
+		<label  >Dianne Miller Pilates</label>
+	</div>
+	<div  >
+		<label  >DK Body Balancing Method</label>
+	</div>
+	<div  >
+		<label  >Dragon Door</label>
+	</div>
+	<div  >
+		<label  >Dynamax</label>
+	</div>
+	<div  >
+		<label  >EEI</label>
+	</div>
+	<div  >
+		<label  >EFA</label>
+	</div>
+	<div  >
+		<label  >ERS</label>
+	</div>
+	<div  >
+		<label  >eta</label>
+	</div>
+	<div  >
+		<label  >Exercise Elements</label>
+	</div>
+	<div  >
+		<label  >EXOS</label>
+	</div>
+	<div  >
+		<label  >FAI</label>
+	</div>
+	<div  >
+		<label  >FallProof</label>
+	</div>
+	<div  >
+		<label  >FDN</label>
+	</div>
+	<div  >
+		<label  >Feldenkrais®</label>
+	</div>
+	<div  >
+		<label  >FFC</label>
+	</div>
+	<div  >
+		<label  >FFT</label>
+	</div>
+	<div  >
+		<label  >FIF</label>
+	</div>
+	<div  >
+		<label  >FISAF</label>
+	</div>
+	<div  >
+		<label  >FIT</label>
+	</div>
+	<div  >
+		<label  >FIT4MOM®</label>
+	</div>
+	<div  >
+		<label  >Fitness Australia</label>
+	</div>
+	<div  >
+		<label  >FiTOUR®</label>
+	</div>
+	<div  >
+		<label  >Florida Physical Therapy Association</label>
+	</div>
+	<div  >
+		<label  >FMS</label>
+	</div>
+	<div  >
+		<label  >FNB</label>
+	</div>
+	<div  >
+		<label  >FPF</label>
+	</div>
+	<div  >
+		<label  >FPTA</label>
+	</div>
+	<div  >
+		<label  >FSDVA</label>
+	</div>
+	<div  >
+		<label  >FSI</label>
+	</div>
+	<div  >
+		<label  >FT</label>
+	</div>
+	<div  >
+		<label  >GI</label>
+	</div>
+	<div  >
+		<label  >GYROKINESIS®</label>
+	</div>
+	<div  >
+		<label  >GYROTONIC®</label>
+	</div>
+	<div  >
+		<label  >Healthy-Steps</label>
+	</div>
+	<div  >
+		<label  >Heart Zones USA</label>
+	</div>
+	<div  >
+		<label  >HFA</label>
+	</div>
+	<div  >
+		<label  >HMF</label>
+	</div>
+	<div  >
+		<label  >Hoop</label>
+	</div>
+	<div  >
+		<label  >HOT HULA fitness®</label>
+	</div>
+	<div  >
+		<label  >HY</label>
+	</div>
+	<div  >
+		<label  >ICG</label>
+	</div>
+	<div  >
+		<label  >IDA</label>
+	</div>
+	<div  >
+		<label  >IDEA</label>
+	</div>
+	<div  >
+		<label  >IFA</label>
+	</div>
+	<div  >
+		<label  >IFBB</label>
+	</div>
+	<div  >
+		<label  >IFC</label>
+	</div>
+	<div  >
+		<label  >IFPA</label>
+	</div>
+	<div  >
+		<label  >IFTA</label>
+	</div>
+	<div  >
+		<label  >IGNITE 360</label>
+	</div>
+	<div  >
+		<label  >IIN</label>
+	</div>
+	<div  >
+		<label  >IKFF</label>
+	</div>
+	<div  >
+		<label  >Illinois Physical Therapy Association </label>
+	</div>
+	<div  >
+		<label  >IM=X Pilates Studio</label>
+	</div>
+	<div  >
+		<label  >Indo Row</label>
+	</div>
+	<div  >
+		<label  >ISCA</label>
+	</div>
+	<div  >
+		<label  >ISFA</label>
+	</div>
+	<div  >
+		<label  >ISFTA</label>
+	</div>
+	<div  >
+		<label  >ISSA</label>
+	</div>
+	<div  >
+		<label  >ISTA</label>
+	</div>
+	<div  >
+		<label  >iTPA</label>
+	</div>
+	<div  >
+		<label  >IWF</label>
+	</div>
+	<div  >
+		<label  >IWI</label>
+	</div>
+	<div  >
+		<label  >IYCA</label>
+	</div>
+	<div  >
+		<label  >Jacki Sorensen</label>
+	</div>
+	<div  >
+		<label  >Jazzercise</label>
+	</div>
+	<div  >
+		<label  >Jillian Michaels BODYSHRED™</label>
+	</div>
+	<div  >
+		<label  >John Garey</label>
+	</div>
+	<div  >
+		<label  >K9 Fit Club</label>
+	</div>
+	<div  >
+		<label  >Kane School</label>
+	</div>
+	<div  >
+		<label  >Kathy Corey Pilates</label>
+	</div>
+	<div  >
+		<label  >KBC</label>
+	</div>
+	<div  >
+		<label  >KBME</label>
+	</div>
+	<div  >
+		<label  >KCFL</label>
+	</div>
+	<div  >
+		<label  >Keiser</label>
+	</div>
+	<div  >
+		<label  >KFI</label>
+	</div>
+	<div  >
+		<label  >KRANKcycle®</label>
+	</div>
+	<div  >
+		<label  >LAB</label>
+	</div>
+	<div  >
+		<label  >LaBlast</label>
+	</div>
+	<div  >
+		<label  >LBDC</label>
+	</div>
+	<div  >
+		<label  >LeMond</label>
+	</div>
+	<div  >
+		<label  >Les Mills</label>
+	</div>
+	<div  >
+		<label  >Linda Fit Pilates</label>
+	</div>
+	<div  >
+		<label  >Louisiana Physical Therapy Board </label>
+	</div>
+	<div  >
+		<label  >Mahler's Agressive Strength</label>
+	</div>
+	<div  >
+		<label  >Marc Steinberg</label>
+	</div>
+	<div  >
+		<label  >MAT™</label>
+	</div>
+	<div  >
+		<label  >MC</label>
+	</div>
+	<div  >
+		<label  >ME</label>
+	</div>
+	<div  >
+		<label  >Me System™ - Motion Empowered</label>
+	</div>
+	<div  >
+		<label  >MELT</label>
+	</div>
+	<div  >
+		<label  >MET</label>
+	</div>
+	<div  >
+		<label  >MFC</label>
+	</div>
+	<div  >
+		<label  >MIM</label>
+	</div>
+	<div  >
+		<label  >Mind 2 Body</label>
+	</div>
+	<div  >
+		<label  >Mississippi State Board of Physical Therapy</label>
+	</div>
+	<div  >
+		<label  >MMF</label>
+	</div>
+	<div  >
+		<label  >MTC</label>
+	</div>
+	<div  >
+		<label  >NAFC</label>
+	</div>
+	<div  >
+		<label  >NASE</label>
+	</div>
+	<div  >
+		<label  >NASM</label>
+	</div>
+	<div  >
+		<label  >NASN</label>
+	</div>
+	<div  >
+		<label  >National Wellness Institute</label>
+	</div>
+	<div  >
+		<label  >NBFE</label>
+	</div>
+	<div  >
+		<label  >NCBTMB</label>
+	</div>
+	<div  >
+		<label  >NCCPT</label>
+	</div>
+	<div  >
+		<label  >NCEP</label>
+	</div>
+	<div  >
+		<label  >NCHEC</label>
+	</div>
+	<div  >
+		<label  >NCSF</label>
+	</div>
+	<div  >
+		<label  >NESTA</label>
+	</div>
+	<div  >
+		<label  >NETA</label>
+	</div>
+	<div  >
+		<label  >Newton Natural Running™</label>
+	</div>
+	<div  >
+		<label  >NFPT</label>
+	</div>
+	<div  >
+		<label  >NHCA</label>
+	</div>
+	<div  >
+		<label  >Nia</label>
+	</div>
+	<div  >
+		<label  >NPI</label>
+	</div>
+	<div  >
+		<label  >NPTI</label>
+	</div>
+	<div  >
+		<label  >NSCA</label>
+	</div>
+	<div  >
+		<label  >NSFA</label>
+	</div>
+	<div  >
+		<label  >NSPA</label>
+	</div>
+	<div  >
+		<label  >NSPAPPH</label>
+	</div>
+	<div  >
+		<label  >OFC</label>
+	</div>
+	<div  >
+		<label  >Outdoor Fitness</label>
+	</div>
+	<div  >
+		<label  >PaddleFit</label>
+	</div>
+	<div  >
+		<label  >PAI</label>
+	</div>
+	<div  >
+		<label  >PB11</label>
+	</div>
+	<div  >
+		<label  >PCDI</label>
+	</div>
+	<div  >
+		<label  >Peak Pilates</label>
+	</div>
+	<div  >
+		<label  >PFIT</label>
+	</div>
+	<div  >
+		<label  >PFTA</label>
+	</div>
+	<div  >
+		<label  >PHI</label>
+	</div>
+	<div  >
+		<label  >Physical Therapy Association of Georgia </label>
+	</div>
+	<div  >
+		<label  >Physical Therapy Examiners’ Board, State of Nevada</label>
+	</div>
+	<div  >
+		<label  >PIA</label>
+	</div>
+	<div  >
+		<label  >Pilates Coach</label>
+	</div>
+	<div  >
+		<label  >Pilates Sports Center</label>
+	</div>
+	<div  >
+		<label  >Piloxing</label>
+	</div>
+	<div  >
+		<label  >PMA</label>
+	</div>
+	<div  >
+		<label  >PN</label>
+	</div>
+	<div  >
+		<label  >Polestar</label>
+	</div>
+	<div  >
+		<label  >Poliquin</label>
+	</div>
+	<div  >
+		<label  >POUND</label>
+	</div>
+	<div  >
+		<label  >Power Pilates</label>
+	</div>
+	<div  >
+		<label  >Power Plate</label>
+	</div>
+	<div  >
+		<label  >PRI</label>
+	</div>
+	<div  >
+		<label  >PROPTA</label>
+	</div>
+	<div  >
+		<label  >PRP</label>
+	</div>
+	<div  >
+		<label  >PTAG</label>
+	</div>
+	<div  >
+		<label  >PTIA</label>
+	</div>
+	<div  >
+		<label  >Punk Rope</label>
+	</div>
+	<div  >
+		<label  >Qignition</label>
+	</div>
+	<div  >
+		<label  >R.I.P.P.E.D. - The One Stop Body Shock</label>
+	</div>
+	<div  >
+		<label  >RAB</label>
+	</div>
+	<div  >
+		<label  >Rainbow Warrior Martial Arts</label>
+	</div>
+	<div  >
+		<label  >Re:Ab Pilates</label>
+	</div>
+	<div  >
+		<label  >RealRyder</label>
+	</div>
+	<div  >
+		<label  >Reebok</label>
+	</div>
+	<div  >
+		<label  >Renee Watson</label>
+	</div>
+	<div  >
+		<label  >REPS-Skillz Active</label>
+	</div>
+	<div  >
+		<label  >Revelation Wellness</label>
+	</div>
+	<div  >
+		<label  >RHDF</label>
+	</div>
+	<div  >
+		<label  >Rolf Gates</label>
+	</div>
+	<div  >
+		<label  >Romana Pilates</label>
+	</div>
+	<div  >
+		<label  >Rowbics</label>
+	</div>
+	<div  >
+		<label  >RRCA</label>
+	</div>
+	<div  >
+		<label  >RTS</label>
+	</div>
+	<div  >
+		<label  >SCCC</label>
+	</div>
+	<div  >
+		<label  >Schwinn Cycling</label>
+	</div>
+	<div  >
+		<label  >SCW</label>
+	</div>
+	<div  >
+		<label  >SDMC</label>
+	</div>
+	<div  >
+		<label  >SF</label>
+	</div>
+	<div  >
+		<label  >SFA / ASFA</label>
+	</div>
+	<div  >
+		<label  >SFirst</label>
+	</div>
+	<div  >
+		<label  >SGF</label>
+	</div>
+	<div  >
+		<label  >SilverSneakers</label>
+	</div>
+	<div  >
+		<label  >SNH</label>
+	</div>
+	<div  >
+		<label  >Spencer Institute</label>
+	</div>
+	<div  >
+		<label  >Spinning</label>
+	</div>
+	<div  >
+		<label  >SPRA</label>
+	</div>
+	<div  >
+		<label  >SSM</label>
+	</div>
+	<div  >
+		<label  >Steve Maxwell</label>
+	</div>
+	<div  >
+		<label  >STOTT PILATES®</label>
+	</div>
+	<div  >
+		<label  >Studio M Education: Pilates and Gyrotonic</label>
+	</div>
+	<div  >
+		<label  >STW</label>
+	</div>
+	<div  >
+		<label  >Tabata Bootcamp</label>
+	</div>
+	<div  >
+		<label  >TaijiFit</label>
+	</div>
+	<div  >
+		<label  >TBMM</label>
+	</div>
+	<div  >
+		<label  >TCHI</label>
+	</div>
+	<div  >
+		<label  >TEAM Pilates</label>
+	</div>
+	<div  >
+		<label  >Technogym North America</label>
+	</div>
+	<div  >
+		<label  >Texas Physical Therapy Association </label>
+	</div>
+	<div  >
+		<label  >TFM</label>
+	</div>
+	<div  >
+		<label  >TFW</label>
+	</div>
+	<div  >
+		<label  >The Back School</label>
+	</div>
+	<div  >
+		<label  >The Egoscue Method</label>
+	</div>
+	<div  >
+		<label  >The Pilates Center</label>
+	</div>
+	<div  >
+		<label  >The Pilates Center of Austin</label>
+	</div>
+	<div  >
+		<label  >The Pilates Studio</label>
+	</div>
+	<div  >
+		<label  >The Pilates Studio of Los Angeles</label>
+	</div>
+	<div  >
+		<label  >The Providence Institute</label>
+	</div>
+	<div  >
+		<label  >The Ron Fletcher Program</label>
+	</div>
+	<div  >
+		<label  >The Trager Approach®</label>
+	</div>
+	<div  >
+		<label  >TheMethod Pilates</label>
+	</div>
+	<div  >
+		<label  >Total Barre™</label>
+	</div>
+	<div  >
+		<label  >Total Gym</label>
+	</div>
+	<div  >
+		<label  >TPI</label>
+	</div>
+	<div  >
+		<label  >TPPT</label>
+	</div>
+	<div  >
+		<label  >TRX</label>
+	</div>
+	<div  >
+		<label  >TW-CC</label>
+	</div>
+	<div  >
+		<label  >Twist Sport Conditioning</label>
+	</div>
+	<div  >
+		<label  >U.S. Pilates Association</label>
+	</div>
+	<div  >
+		<label  >UCR2</label>
+	</div>
+	<div  >
+		<label  >US</label>
+	</div>
+	<div  >
+		<label  >USA Track &amp; Field</label>
+	</div>
+	<div  >
+		<label  >USA Triathlon</label>
+	</div>
+	<div  >
+		<label  >USA Weightlifting</label>
+	</div>
+	<div  >
+		<label  >USAC</label>
+	</div>
+	<div  >
+		<label  >USAKL</label>
+	</div>
+	<div  >
+		<label  >USMS</label>
+	</div>
+	<div  >
+		<label  >ViPR</label>
+	</div>
+	<div  >
+		<label  >Virginia Physical Therapy Association </label>
+	</div>
+	<div  >
+		<label  >VIVOBAREFOOT</label>
+	</div>
+	<div  >
+		<label  >W.I.T.S.</label>
+	</div>
+	<div  >
+		<label  >Wellcoaches</label>
+	</div>
+	<div  >
+		<label  >Wello</label>
+	</div>
+	<div  >
+		<label  >WERQ</label>
+	</div>
+	<div  >
+		<label  >WFA</label>
+	</div>
+	<div  >
+		<label  >willPower Method</label>
+	</div>
+	<div  >
+		<label  >World Kettlebell Club®</label>
+	</div>
+	<div  >
+		<label  >Wun-Jo</label>
+	</div>
+	<div  >
+		<label  >XPERT Pole Fitness</label>
+	</div>
+	<div  >
+		<label  >YMCA</label>
+	</div>
+	<div  >
+		<label  >Yoga Alliance</label>
+	</div>
+	<div  >
+		<label  >YogaFit Training Systems Worldwide, Inc.</label>
+	</div>
+	<div  >
+		<label  >YogaWorks</label>
+	</div>
+	<div  >
+		<label  >YTU</label>
+	</div>
+	<div  >
+		<label  >ZEN.GA™</label>
+	</div>
+	<div  >
+		<label  >Zumba®</label>
+	</div>
+</div>

@@ -1,0 +1,8 @@
+db.phitr_airports.find({ loc: { $near :
+	          {
+	            $geometry : { type : "Point" , coordinates: [47.449,-122.309306] },
+	            $maxDistance : 50
+	          }
+	       }
+	   }
+)

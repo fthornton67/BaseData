@@ -1,0 +1,2849 @@
+<table width="775" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+	
+	<tbody><tr>
+		<td width="50" rowspan="3"><img src="http://assets3.sparkpeople.com/assets/spacer.gif" alt="" width="50" height="1"></td>
+		<td width="312" valign="top" class="black14"><br><strong><img src="http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercUpperBdyExe.gif" alt="Upper Body Exercises" width="220" height="25"></strong><br>
+				<br>
+		</td>
+		<td width="50" rowspan="3" align="center" valign="middle"><img src="http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/spacer.gif" alt="" width="30" height="1"></td>
+		<td width="313" valign="top" class="black14"><br>
+	    <img src="http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercLowerBdyExe.gif" alt="Lower Body Exercises" width="220" height="25"><br></td>
+		<td width="50" rowspan="3"><img src="http://assets3.sparkpeople.com/assets/spacer.gif" alt="" width="50" height="1"></td>
+	</tr>
+	<tr>
+		<td valign="top" class="black12" width="312"><strong>Beginner</strong><br>
+		</td>
+		<td valign="top" width="313"><span class="black12"><strong>Beginner</strong></span><br>
+		</td>
+    </tr>
+			<tr>
+<!--For each type of exercise (ex. Lower Body Beginner, Lower Body Advanced, Upper Body Beginner, etc.) there will be a loop that selects all of those types of exercises from the database and then displays them with a checkbox.-->
+ 
+		<td valign="top" width="312">
+			<table border="0" cellspacing="0" cellpadding="5">
+			<!--Start loop here-->
+			
+				<tbody><tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox36" value="36">
+					</td>
+					<td class="black12"><label for="cbox36">
+					Modified Pushups</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=36','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox37" value="37">
+					</td>
+					<td class="black12"><label for="cbox37">
+					One-Arm Dumbbell Rows</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=37','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox38" value="38">
+					</td>
+					<td class="black12"><label for="cbox38">
+					One-Arm Dumbbell Rows with Ball</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=38','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox39" value="39">
+					</td>
+					<td class="black12"><label for="cbox39">
+					Pushups on the Ball</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=39','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox40" value="40">
+					</td>
+					<td class="black12"><label for="cbox40">
+					Low Mount Reverse Flys with Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=40','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox41" value="41">
+					</td>
+					<td class="black12"><label for="cbox41">
+					Dumbbell Reverse Flys Seated on Ball</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=41','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox42" value="42">
+					</td>
+					<td class="black12"><label for="cbox42">
+					Seated Dumbbell Rows</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=42','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox43" value="43">
+					</td>
+					<td class="black12"><label for="cbox43">
+					Dumbbell Shrugs</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=43','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox63" value="63">
+					</td>
+					<td class="black12"><label for="cbox63">
+					Pushups</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=63','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox69" value="69">
+					</td>
+					<td class="black12"><label for="cbox69">
+					Alternating Dumbbell Biceps Curls</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=69','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox70" value="70">
+					</td>
+					<td class="black12"><label for="cbox70">
+					Dumbbell Triceps Kick Backs</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=70','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox71" value="71">
+					</td>
+					<td class="black12"><label for="cbox71">
+					Dumbbell Chest Press</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=71','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox72" value="72">
+					</td>
+					<td class="black12"><label for="cbox72">
+					Bench Press with Barbell</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=72','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox73" value="73">
+					</td>
+					<td class="black12"><label for="cbox73">
+					Seated Dumbbell Shoulder Press</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=73','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox74" value="74">
+					</td>
+					<td class="black12"><label for="cbox74">
+					Dumbbell Lateral Raises</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=74','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox107" value="107">
+					</td>
+					<td class="black12"><label for="cbox107">
+					Wall Pushups</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=107','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox110" value="110">
+					</td>
+					<td class="black12"><label for="cbox110">
+					Boxer</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=110','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox124" value="124">
+					</td>
+					<td class="black12"><label for="cbox124">
+					Triceps Dips with Bent Knees</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=124','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox129" value="129">
+					</td>
+					<td class="black12"><label for="cbox129">
+					Isometric Biceps Hold with Towel</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=129','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox130" value="130">
+					</td>
+					<td class="black12"><label for="cbox130">
+					Isometric Shoulder Hold with Towel</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=130','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox155" value="155">
+					</td>
+					<td class="black12"><label for="cbox155">
+					Dumbbell Flys</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=155','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox156" value="156">
+					</td>
+					<td class="black12"><label for="cbox156">
+					Seated Dumbbell Concentration Curls</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=156','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox157" value="157">
+					</td>
+					<td class="black12"><label for="cbox157">
+					Dumbbell Wrist Curls</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=157','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox158" value="158">
+					</td>
+					<td class="black12"><label for="cbox158">
+					Seated Dumbbell Triceps Extensions</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=158','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox159" value="159">
+					</td>
+					<td class="black12"><label for="cbox159">
+					Lying Dumbbell Triceps Extensions</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=159','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox171" value="171">
+					</td>
+					<td class="black12"><label for="cbox171">
+					Biceps Curls with Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=171','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox172" value="172">
+					</td>
+					<td class="black12"><label for="cbox172">
+					Chest Press with Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=172','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox174" value="174">
+					</td>
+					<td class="black12"><label for="cbox174">
+					Low Mount Seated Rows with Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=174','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox181" value="181">
+					</td>
+					<td class="black12"><label for="cbox181">
+					Upright Dumbbell Rows</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=181','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox182" value="182">
+					</td>
+					<td class="black12"><label for="cbox182">
+					Dumbbell Pullovers</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=182','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox183" value="183">
+					</td>
+					<td class="black12"><label for="cbox183">
+					Dumbbell Hammer Curls</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=183','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox190" value="190">
+					</td>
+					<td class="black12"><label for="cbox190">
+					Lying Triceps Lifts</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=190','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox223" value="223">
+					</td>
+					<td class="black12"><label for="cbox223">
+					Seated Lat Pulldown Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=223','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox224" value="224">
+					</td>
+					<td class="black12"><label for="cbox224">
+					Seated Chest Press Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=224','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox225" value="225">
+					</td>
+					<td class="black12"><label for="cbox225">
+					Seated Row Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=225','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox231" value="231">
+					</td>
+					<td class="black12"><label for="cbox231">
+					Preacher Curl Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=231','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox232" value="232">
+					</td>
+					<td class="black12"><label for="cbox232">
+					Seated Pec Deck Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=232','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox233" value="233">
+					</td>
+					<td class="black12"><label for="cbox233">
+					Seated Overhead Press Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=233','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox246" value="246">
+					</td>
+					<td class="black12"><label for="cbox246">
+					Biceps Curls with Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=246','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox250" value="250">
+					</td>
+					<td class="black12"><label for="cbox250">
+					Triceps Rows with Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=250','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox251" value="251">
+					</td>
+					<td class="black12"><label for="cbox251">
+					Triceps Lifts with  Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=251','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox258" value="258">
+					</td>
+					<td class="black12"><label for="cbox258">
+					Single Arm Lateral Raises with Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=258','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox259" value="259">
+					</td>
+					<td class="black12"><label for="cbox259">
+					Single Arm Front Raises with Band</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=259','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox271" value="271">
+					</td>
+					<td class="black12"><label for="cbox271">
+					Assisted Triceps Dip Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=271','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox272" value="272">
+					</td>
+					<td class="black12"><label for="cbox272">
+					Assisted Pull-up Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=272','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox277" value="277">
+					</td>
+					<td class="black12"><label for="cbox277">
+					Seated Triceps Extension Machine</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=277','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox357" value="357">
+					</td>
+					<td class="black12"><label for="cbox357">
+					Modified Staggered Pushups on Balance Board</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=357','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox467" value="467">
+					</td>
+					<td class="black12"><label for="cbox467">
+					Standing Overhead Triceps Extension with Medicine Ball</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=467','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox485" value="485">
+					</td>
+					<td class="black12"><label for="cbox485">
+					Modified Pushups on Foam Roller</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=485','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox497" value="497">
+					</td>
+					<td class="black12"><label for="cbox497">
+					Two-Arm Biceps Curls with Mini Stepper</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=497','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox498" value="498">
+					</td>
+					<td class="black12"><label for="cbox498">
+					Alternating Biceps Curls with Mini Stepper</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=498','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox500" value="500">
+					</td>
+					<td class="black12"><label for="cbox500">
+					Lateral Shoulder Raises with Mini Stepper</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=500','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+				<tr>
+					<td width="20"><input name="cbox" type="checkbox" id="cbox501" value="501">
+					</td>
+					<td class="black12"><label for="cbox501">
+					Front Shoulder Raises with Mini Stepper</label>
+						<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=501','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+						</span>
+					</td>
+		       </tr>
+			
+			<!--End loop here-->
+			</tbody></table>
+		<br>
+	<table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td><span class="black12"><strong>Advanced</strong></span><br></td>
+          </tr>
+          </tbody></table>      <table border="0" cellspacing="0" cellpadding="5">
+      <!--Start loop here-->
+	  
+	  <tbody><tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox45" value="45"></td>
+        <td class="black12"><label for="cbox45">Dumbbell Chest Press on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=45','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox46" value="46"></td>
+        <td class="black12"><label for="cbox46">Lying Row &amp; Rotation on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=46','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox47" value="47"></td>
+        <td class="black12"><label for="cbox47">Dumbbell Shoulder Press on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=47','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox48" value="48"></td>
+        <td class="black12"><label for="cbox48">Barbell Triceps Extensions on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=48','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox49" value="49"></td>
+        <td class="black12"><label for="cbox49">Chest Flys on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=49','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox50" value="50"></td>
+        <td class="black12"><label for="cbox50">Dumbbell Triceps Extensions on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=50','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox51" value="51"></td>
+        <td class="black12"><label for="cbox51">Wall Sit with Dumbbell Biceps Curls</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=51','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox52" value="52"></td>
+        <td class="black12"><label for="cbox52">Wall Sit with Lateral Dumbbell Raises</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=52','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox108" value="108"></td>
+        <td class="black12"><label for="cbox108">Close-Arm Wall Pushups</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=108','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox125" value="125"></td>
+        <td class="black12"><label for="cbox125">Triceps Dips with Straight Legs</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=125','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox133" value="133"></td>
+        <td class="black12"><label for="cbox133">Incline Pushups</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=133','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox134" value="134"></td>
+        <td class="black12"><label for="cbox134">Decline Pushups</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=134','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox137" value="137"></td>
+        <td class="black12"><label for="cbox137">Two-Part Pushups</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=137','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox139" value="139"></td>
+        <td class="black12"><label for="cbox139">One-Arm Side Pushups</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=139','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox142" value="142"></td>
+        <td class="black12"><label for="cbox142">Reverse Plank</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=142','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox179" value="179"></td>
+        <td class="black12"><label for="cbox179">Advanced Pushups on the Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=179','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox187" value="187"></td>
+        <td class="black12"><label for="cbox187">Dumbbell Chest Flys on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=187','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox188" value="188"></td>
+        <td class="black12"><label for="cbox188">Dumbbell Reverse Flys Lying on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=188','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox237" value="237"></td>
+        <td class="black12"><label for="cbox237">Standing Single Arm Biceps Curl on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=237','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox238" value="238"></td>
+        <td class="black12"><label for="cbox238">Standing Overhead Triceps Pull on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=238','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox239" value="239"></td>
+        <td class="black12"><label for="cbox239">Standing Upright Row on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=239','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox240" value="240"></td>
+        <td class="black12"><label for="cbox240">Straight-Arm Lat Pulldown on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=240','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox242" value="242"></td>
+        <td class="black12"><label for="cbox242">Standing Chest Flys on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=242','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox243" value="243"></td>
+        <td class="black12"><label for="cbox243">Seated Cable Cross Rows with Stability Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=243','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox244" value="244"></td>
+        <td class="black12"><label for="cbox244">Internal Shoulder Rotation on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=244','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox245" value="245"></td>
+        <td class="black12"><label for="cbox245">External Shoulder Rotation on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=245','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox252" value="252"></td>
+        <td class="black12"><label for="cbox252">Reverse Flys with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=252','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox253" value="253"></td>
+        <td class="black12"><label for="cbox253">Bent Over Rows with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=253','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox260" value="260"></td>
+        <td class="black12"><label for="cbox260">Biceps Curls on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=260','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox261" value="261"></td>
+        <td class="black12"><label for="cbox261">Reverse Grip Triceps Pulldown on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=261','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox264" value="264"></td>
+        <td class="black12"><label for="cbox264">Traditional Lat Pulldown Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=264','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox275" value="275"></td>
+        <td class="black12"><label for="cbox275">Leaning Pull-ups on Smith Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=275','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox345" value="345"></td>
+        <td class="black12"><label for="cbox345">Balance Board Pushups</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=345','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox346" value="346"></td>
+        <td class="black12"><label for="cbox346">Staggered Pushups on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=346','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox459" value="459"></td>
+        <td class="black12"><label for="cbox459">Staggered Pushups on Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=459','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox463" value="463"></td>
+        <td class="black12"><label for="cbox463">Triceps Dips on Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=463','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox471" value="471"></td>
+        <td class="black12"><label for="cbox471">Lying Chest Toss with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=471','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox473" value="473"></td>
+        <td class="black12"><label for="cbox473">Partner Chest Toss with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=473','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox474" value="474"></td>
+        <td class="black12"><label for="cbox474">Partner Triceps Toss with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=474','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox486" value="486"></td>
+        <td class="black12"><label for="cbox486">Pushups on Foam Roller</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=486','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+                </tbody></table>
+          <span class="black14"></span><span class="black12"></span>
+		  <br>
+		  <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><br>            <img src="http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercStretchesExe.gif" alt="Stretches" width="117" height="25"><br>
+          <br></td>
+        </tr>
+        <tr>
+          <td><span class="black12"><strong>Upper Body Stretches</strong></span><br></td>
+        </tr>
+          </tbody></table>          <table border="0" cellspacing="0" cellpadding="5">
+      <!--Start loop here-->
+	  
+	  <tbody><tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox53" value="53"></td>
+        <td class="black12"><label for="cbox53">Standing Chest Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=53','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox54" value="54"></td>
+        <td class="black12"><label for="cbox54">Standing Shoulder Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=54','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox55" value="55"></td>
+        <td class="black12"><label for="cbox55">Standing Triceps Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=55','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox56" value="56"></td>
+        <td class="black12"><label for="cbox56">Neck Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=56','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox62" value="62"></td>
+        <td class="black12"><label for="cbox62">Torso Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=62','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox278" value="278"></td>
+        <td class="black12"><label for="cbox278">Standing Wrist/Biceps Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=278','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox279" value="279"></td>
+        <td class="black12"><label for="cbox279">Standing Wrist/Forearm Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=279','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox283" value="283"></td>
+        <td class="black12"><label for="cbox283">Triangle Pose</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=283','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox299" value="299"></td>
+        <td class="black12"><label for="cbox299">Side Mermaid Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=299','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox302" value="302"></td>
+        <td class="black12"><label for="cbox302">Lying Abs Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=302','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox303" value="303"></td>
+        <td class="black12"><label for="cbox303">Child’s pose</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=303','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox304" value="304"></td>
+        <td class="black12"><label for="cbox304">Upward dog</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=304','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox305" value="305"></td>
+        <td class="black12"><label for="cbox305">Cat Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=305','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox306" value="306"></td>
+        <td class="black12"><label for="cbox306">Camel Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=306','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox490" value="490"></td>
+        <td class="black12"><label for="cbox490">Myofascial Upper Back Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=490','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox495" value="495"></td>
+        <td class="black12"><label for="cbox495">Myofascial Calf Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=495','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox496" value="496"></td>
+        <td class="black12"><label for="cbox496">Myofascial Lower Back Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=496','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox499" value="499"></td>
+        <td class="black12"><label for="cbox499">Myofascial Neck Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=499','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox546" value="546"></td>
+        <td class="black12"><label for="cbox546">Standing IT Band Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=546','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <!--End loop here-->
+              </tbody></table>
+					<br>
+					<span class="black12"></span>          <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><span class="black12"><strong>Lower Body Stretches</strong></span></td>
+        </tr>
+                  </tbody></table>          <table border="0" cellspacing="0" cellpadding="5">
+      <!--Start loop here-->
+	  
+	  <tbody><tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox58" value="58"></td>
+        <td class="black12"><label for="cbox58">Seated Butterfly Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=58','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox59" value="59"></td>
+        <td class="black12"><label for="cbox59">Standing Advanced Forward Bend</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=59','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox60" value="60"></td>
+        <td class="black12"><label for="cbox60">Standing Quad Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=60','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox61" value="61"></td>
+        <td class="black12"><label for="cbox61">Gluteal and Outer Thigh Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=61','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox280" value="280"></td>
+        <td class="black12"><label for="cbox280">Standing Modified Hamstring Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=280','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox281" value="281"></td>
+        <td class="black12"><label for="cbox281">Standing Advanced Hamstring Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=281','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox282" value="282"></td>
+        <td class="black12"><label for="cbox282">Standing Modified Forward Bend</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=282','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox284" value="284"></td>
+        <td class="black12"><label for="cbox284">Wide-Leg Modified Hamstring Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=284','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox285" value="285"></td>
+        <td class="black12"><label for="cbox285">Wide-Leg Advanced Hamstring Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=285','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox286" value="286"></td>
+        <td class="black12"><label for="cbox286">Inner Thigh Squat Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=286','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox287" value="287"></td>
+        <td class="black12"><label for="cbox287">Wide-Leg Modified Forward Bend</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=287','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox288" value="288"></td>
+        <td class="black12"><label for="cbox288">Wide-Leg Advanced Forward Bend</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=288','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox289" value="289"></td>
+        <td class="black12"><label for="cbox289">Torso Twist Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=289','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox290" value="290"></td>
+        <td class="black12"><label for="cbox290">Seated Hip &amp; Glute Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=290','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox291" value="291"></td>
+        <td class="black12"><label for="cbox291">Seated Forward Bend </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=291','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox292" value="292"></td>
+        <td class="black12"><label for="cbox292">Lying Single Knee Hug</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=292','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox293" value="293"></td>
+        <td class="black12"><label for="cbox293">Lying Hip &amp; Glute Stretch </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=293','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox294" value="294"></td>
+        <td class="black12"><label for="cbox294">Lying Hamstring Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=294','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox295" value="295"></td>
+        <td class="black12"><label for="cbox295">Seated Cross-Legged Forward Bend</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=295','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox296" value="296"></td>
+        <td class="black12"><label for="cbox296">Seated Side Hurdler Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=296','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox297" value="297"></td>
+        <td class="black12"><label for="cbox297">Seated Modified Hurdler Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=297','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox298" value="298"></td>
+        <td class="black12"><label for="cbox298">Seated Advanced Hurdler Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=298','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox300" value="300"></td>
+        <td class="black12"><label for="cbox300">Lying Double Knee Hug</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=300','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox301" value="301"></td>
+        <td class="black12"><label for="cbox301">Lying Hip &amp; Glute Hug </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=301','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox491" value="491"></td>
+        <td class="black12"><label for="cbox491">Myofascial IT Band Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=491','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox493" value="493"></td>
+        <td class="black12"><label for="cbox493">Myofascial Hamstring Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=493','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox494" value="494"></td>
+        <td class="black12"><label for="cbox494">Myofascial Gluteal Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=494','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox495" value="495"></td>
+        <td class="black12"><label for="cbox495">Myofascial Calf Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=495','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox499" value="499"></td>
+        <td class="black12"><label for="cbox499">Myofascial Neck Release</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=499','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox503" value="503"></td>
+        <td class="black12"><label for="cbox503">Leaning Single-Leg Calf Stretch at Wall</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=503','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox504" value="504"></td>
+        <td class="black12"><label for="cbox504">Single-Leg Calf Stretch with Wall</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=504','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox545" value="545"></td>
+        <td class="black12"><label for="cbox545">Standing IT Band Stretch with Wall</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=545','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox546" value="546"></td>
+        <td class="black12"><label for="cbox546">Standing IT Band Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=546','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox547" value="547"></td>
+        <td class="black12"><label for="cbox547">Advanced IT Band Stretch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=547','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <!--End loop here-->                  </tbody></table>
+					<br>
+					<br>
+					<br>
+					<a href="javascript:SetChecked(1, 'checkbox');" onmouseover="MM_swapImage('select_me','','http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercSelAll_f2.gif',1)" onmouseout="MM_swapImgRestore()"><!--thisbutton will select all the exercises!--><img src="http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercSelAll.gif" alt="Select All" name="select_me" width="216" height="28" vspace="10" border="0" id="select_me"></a><a href="javascript:SetChecked(0, 'checkbox');" onmouseover="MM_swapImage('clear_me','','http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercClrAll_f2.gif',1)" onmouseout="MM_swapImgRestore()"><br>
+						<!--this button will clear all selection!--><img src="http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercClrAll.gif" alt="Clear All" name="clear_me" width="216" height="28" border="0" id="clear_me"><br>
+						<!--this Button will print stuff!--></a><a href="javascript: void(0);" onclick="window.open('','print','width=670,height=500,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); document.forms.exerForm.submit(); return false;" onmouseover="MM_swapImage('print_me','','http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercPrintExe_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercPrintExe.gif" alt="Print Exercises" name="print_me" width="216" height="28" vspace="10" border="0" id="print_me"></a></td>
+    <td valign="top" width="313"><table border="0" cellspacing="0" cellpadding="5">
+      <!--Start loop here-->
+	  
+	  <tbody><tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox1" value="1"></td>
+        <td class="black12"><label for="cbox1">Lying Abduction with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=1','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox11" value="11"></td>
+        <td class="black12"><label for="cbox11">Low Mount Adduction with Band </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=11','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox21" value="21"></td>
+        <td class="black12"><label for="cbox21">Squats</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=21','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox22" value="22"></td>
+        <td class="black12"><label for="cbox22">Forward Lunges</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=22','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox23" value="23"></td>
+        <td class="black12"><label for="cbox23">Lateral Lunges</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=23','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox24" value="24"></td>
+        <td class="black12"><label for="cbox24">Modified Lunges</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=24','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox25" value="25"></td>
+        <td class="black12"><label for="cbox25">Step-Ups </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=25','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox65" value="65"></td>
+        <td class="black12"><label for="cbox65">Wall Squats with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=65','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox66" value="66"></td>
+        <td class="black12"><label for="cbox66">Wall Squats</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=66','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox67" value="67"></td>
+        <td class="black12"><label for="cbox67">Calf Raises with Wall</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=67','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox75" value="75"></td>
+        <td class="black12"><label for="cbox75">Lying Single-Leg Raises</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=75','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox112" value="112"></td>
+        <td class="black12"><label for="cbox112">Skater Squats</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=112','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox120" value="120"></td>
+        <td class="black12"><label for="cbox120">Calf Rocking with Chair</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=120','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox121" value="121"></td>
+        <td class="black12"><label for="cbox121">Standing Abduction</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=121','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox122" value="122"></td>
+        <td class="black12"><label for="cbox122">Standing Adduction</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=122','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox123" value="123"></td>
+        <td class="black12"><label for="cbox123">Calf Raises with Chair</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=123','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox126" value="126"></td>
+        <td class="black12"><label for="cbox126">Seated Leg Extensions</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=126','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox128" value="128"></td>
+        <td class="black12"><label for="cbox128">Single Leg Squats with Chair</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=128','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox149" value="149"></td>
+        <td class="black12"><label for="cbox149">Lying Abduction</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=149','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox150" value="150"></td>
+        <td class="black12"><label for="cbox150">Lying Adduction</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=150','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox152" value="152"></td>
+        <td class="black12"><label for="cbox152">Lying Leg Curls</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=152','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox153" value="153"></td>
+        <td class="black12"><label for="cbox153">Bridges</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=153','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox160" value="160"></td>
+        <td class="black12"><label for="cbox160">Dumbbell Squats</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=160','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox161" value="161"></td>
+        <td class="black12"><label for="cbox161">Wide Leg Squats with Dumbbell</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=161','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox163" value="163"></td>
+        <td class="black12"><label for="cbox163">Calf Rocking with Dumbbells</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=163','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox169" value="169"></td>
+        <td class="black12"><label for="cbox169">Low Mount Leg Curls with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=169','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox170" value="170"></td>
+        <td class="black12"><label for="cbox170">Low Mount Abduction with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=170','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox173" value="173"></td>
+        <td class="black12"><label for="cbox173">Seated Leg Extensions with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=173','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox185" value="185"></td>
+        <td class="black12"><label for="cbox185">Lying Hamstring Curls with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=185','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox226" value="226"></td>
+        <td class="black12"><label for="cbox226">Squats on Leg Press Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=226','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox227" value="227"></td>
+        <td class="black12"><label for="cbox227">Heel Raises on Leg Press Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=227','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox229" value="229"></td>
+        <td class="black12"><label for="cbox229">Seated Leg Extension Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=229','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox230" value="230"></td>
+        <td class="black12"><label for="cbox230">Seated Leg Curl Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=230','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox247" value="247"></td>
+        <td class="black12"><label for="cbox247">Modified Squats with Band </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=247','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox262" value="262"></td>
+        <td class="black12"><label for="cbox262">Seated Hip Abduction Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=262','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox263" value="263"></td>
+        <td class="black12"><label for="cbox263">Seated Hip Adduction Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=263','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox276" value="276"></td>
+        <td class="black12"><label for="cbox276">Lying Leg Press on Sled Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=276','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox352" value="352"></td>
+        <td class="black12"><label for="cbox352">Staggered Squat on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=352','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox356" value="356"></td>
+        <td class="black12"><label for="cbox356">Stationary Lunges on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=356','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox358" value="358"></td>
+        <td class="black12"><label for="cbox358">Bridges on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=358','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox469" value="469"></td>
+        <td class="black12"><label for="cbox469">Wall Sit with Medicine Ball Squeeze</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=469','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox478" value="478"></td>
+        <td class="black12"><label for="cbox478">Bridges on Foam Roller</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=478','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <!--End loop here-->
+    </tbody></table>
+      <br>
+	  <table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><span class="black12"><strong>Advanced</strong></span><br></td>
+      </tr>
+          </tbody></table>      <table border="0" cellspacing="0" cellpadding="5">
+      <!--Start loop here-->
+	  
+	  <tbody><tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox10" value="10"></td>
+        <td class="black12"><label for="cbox10">Lying 45-Degree Abduction with Band </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=10','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox18" value="18"></td>
+        <td class="black12"><label for="cbox18">Single Leg Squat &amp; Bend</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=18','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox19" value="19"></td>
+        <td class="black12"><label for="cbox19">Dead Lifts with Dumbbells</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=19','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox26" value="26"></td>
+        <td class="black12"><label for="cbox26">Squats with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=26','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox27" value="27"></td>
+        <td class="black12"><label for="cbox27">Single Leg Calf Raises on Step</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=27','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox28" value="28"></td>
+        <td class="black12"><label for="cbox28">Hamstring Flexion with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=28','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox29" value="29"></td>
+        <td class="black12"><label for="cbox29">Lateral Lunges with Overhead Dumbbell Press </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=29','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox30" value="30"></td>
+        <td class="black12"><label for="cbox30">Lunge &amp; Twist with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=30','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox31" value="31"></td>
+        <td class="black12"><label for="cbox31">Forward Lunge with Dumbbell Press </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=31','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox32" value="32"></td>
+        <td class="black12"><label for="cbox32">Single Leg Dumbbell Squats with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=32','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox33" value="33"></td>
+        <td class="black12"><label for="cbox33">Single Leg Squats with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=33','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox34" value="34"></td>
+        <td class="black12"><label for="cbox34">Single Leg Lateral Squat with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=34','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox35" value="35"></td>
+        <td class="black12"><label for="cbox35">Dumbbell Squat with Calf Raise and Overhead Press</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=35','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox64" value="64"></td>
+        <td class="black12"><label for="cbox64">Single Leg Hamstring Flexion with Ball </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=64','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox109" value="109"></td>
+        <td class="black12"><label for="cbox109">Wide Leg Wall Sit with Calf Raises</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=109','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox115" value="115"></td>
+        <td class="black12"><label for="cbox115">Runner's Lunges</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=115','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox116" value="116"></td>
+        <td class="black12"><label for="cbox116">Walking Lunges</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=116','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox117" value="117"></td>
+        <td class="black12"><label for="cbox117">Single Leg Squats with Toe Touch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=117','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox132" value="132"></td>
+        <td class="black12"><label for="cbox132">Calf Raises on Step</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=132','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox135" value="135"></td>
+        <td class="black12"><label for="cbox135">Lunges with Step</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=135','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox136" value="136"></td>
+        <td class="black12"><label for="cbox136">Genie Sit</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=136','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox151" value="151"></td>
+        <td class="black12"><label for="cbox151">Lying Double Leg Raises</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=151','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox154" value="154"></td>
+        <td class="black12"><label for="cbox154">Single Leg Bridge-Ups</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=154','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox162" value="162"></td>
+        <td class="black12"><label for="cbox162">Forward Lunges with Dumbbells</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=162','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox175" value="175"></td>
+        <td class="black12"><label for="cbox175">Bridges on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=175','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox180" value="180"></td>
+        <td class="black12"><label for="cbox180">Single Leg Calf Raises at Wall</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=180','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox189" value="189"></td>
+        <td class="black12"><label for="cbox189">Wall Squats with Dumbbells &amp; Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=189','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox228" value="228"></td>
+        <td class="black12"><label for="cbox228">Single Leg Squats on Leg Press Machine </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=228','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox234" value="234"></td>
+        <td class="black12"><label for="cbox234">Standing Hip Extension on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=234','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox235" value="235"></td>
+        <td class="black12"><label for="cbox235">Standing Hip Abduction on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=235','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox236" value="236"></td>
+        <td class="black12"><label for="cbox236">Standing Leg Curls on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=236','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox241" value="241"></td>
+        <td class="black12"><label for="cbox241">Lunges with Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=241','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox248" value="248"></td>
+        <td class="black12"><label for="cbox248">Squats with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=248','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox249" value="249"></td>
+        <td class="black12"><label for="cbox249">Standing Hip Abduction with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=249','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox254" value="254"></td>
+        <td class="black12"><label for="cbox254">Single Leg Hip Flexion with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=254','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox255" value="255"></td>
+        <td class="black12"><label for="cbox255">Single Leg Hamstring Curls with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=255','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox256" value="256"></td>
+        <td class="black12"><label for="cbox256">Leg Extensions with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=256','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox257" value="257"></td>
+        <td class="black12"><label for="cbox257">Standing Hip Adduction with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=257','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox269" value="269"></td>
+        <td class="black12"><label for="cbox269">Standing Hip Flexion on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=269','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox270" value="270"></td>
+        <td class="black12"><label for="cbox270">Standing Hip Adduction on Cable Cross Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=270','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox273" value="273"></td>
+        <td class="black12"><label for="cbox273">Squats with Barbell</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=273','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox274" value="274"></td>
+        <td class="black12"><label for="cbox274">Stationary Lunges with Barbell</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=274','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox351" value="351"></td>
+        <td class="black12"><label for="cbox351">Squats on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=351','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox354" value="354"></td>
+        <td class="black12"><label for="cbox354">Single Leg Squat on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=354','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox355" value="355"></td>
+        <td class="black12"><label for="cbox355">Forward Lunges onto Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=355','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox359" value="359"></td>
+        <td class="black12"><label for="cbox359">Single Leg Bridges on Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=359','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox366" value="366"></td>
+        <td class="black12"><label for="cbox366">Staggered Squat on Balance Board with Single Leg Abduction</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=366','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox462" value="462"></td>
+        <td class="black12"><label for="cbox462">Bridges on Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=462','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox464" value="464"></td>
+        <td class="black12"><label for="cbox464">Squat with front shoulder raises</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=464','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox470" value="470"></td>
+        <td class="black12"><label for="cbox470">Wall Squats with Medicine and Stability Balls</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=470','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox477" value="477"></td>
+        <td class="black12"><label for="cbox477">Lying Double Leg Raises with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=477','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox479" value="479"></td>
+        <td class="black12"><label for="cbox479">Single-Leg Bridges on Foam Roller (Knee Bent)</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=479','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox480" value="480"></td>
+        <td class="black12"><label for="cbox480">Single-Leg Bridges on Foam Roller (Straight Leg)</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=480','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox481" value="481"></td>
+        <td class="black12"><label for="cbox481">Single-Leg Bridge Hold on Foam Roller with Toe Taps</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=481','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox482" value="482"></td>
+        <td class="black12"><label for="cbox482">Single-Leg Bridge Hold on Foam Roller with Leg Lowers</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=482','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <!--End loop here-->
+              </tbody></table>
+		<table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><span class="black14"><br>
+        </span><img src="http://assets3.sparkpeople.com/assets/NEWmyspark/exprint/printExercCoreBdyExe.gif" alt="Core Exercises" width="160" height="25"><br>
+        <br></td>
+      </tr>
+      <tr>
+        <td><span class="black12"><strong>Beginner</strong></span><br></td>
+      </tr>
+          </tbody></table>
+			<table border="0" cellspacing="0" cellpadding="5">
+      <!--Start loop here-->
+	  
+	  <tbody><tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox2" value="2"></td>
+        <td class="black12"><label for="cbox2">Crunches</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=2','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox3" value="3"></td>
+        <td class="black12"><label for="cbox3">Crunches with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=3','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox4" value="4"></td>
+        <td class="black12"><label for="cbox4">Crunches with Twist</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=4','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox5" value="5"></td>
+        <td class="black12"><label for="cbox5">Modified Pendulum with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=5','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox6" value="6"></td>
+        <td class="black12"><label for="cbox6">Swimming</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=6','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox7" value="7"></td>
+        <td class="black12"><label for="cbox7">Modified Plank </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=7','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox8" value="8"></td>
+        <td class="black12"><label for="cbox8">Reverse Crunch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=8','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox9" value="9"></td>
+        <td class="black12"><label for="cbox9">Seated Twist with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=9','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox68" value="68"></td>
+        <td class="black12"><label for="cbox68">Dumbbell Side Bends</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=68','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox111" value="111"></td>
+        <td class="black12"><label for="cbox111">Dolphin Pose</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=111','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox113" value="113"></td>
+        <td class="black12"><label for="cbox113">Balancing Hip Flexion</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=113','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox131" value="131"></td>
+        <td class="black12"><label for="cbox131">Standing Side Bend with Towel</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=131','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox138" value="138"></td>
+        <td class="black12"><label for="cbox138">Bridge-Ups</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=138','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox140" value="140"></td>
+        <td class="black12"><label for="cbox140">Banana</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=140','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox145" value="145"></td>
+        <td class="black12"><label for="cbox145">Modified Side Plank</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=145','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox147" value="147"></td>
+        <td class="black12"><label for="cbox147">Back Extension</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=147','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox168" value="168"></td>
+        <td class="black12"><label for="cbox168">Low Mount Hip Flexor with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=168','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox186" value="186"></td>
+        <td class="black12"><label for="cbox186">Side Plank on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=186','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox191" value="191"></td>
+        <td class="black12"><label for="cbox191">Superman</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=191','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox222" value="222"></td>
+        <td class="black12"><label for="cbox222">Seated Back Extension Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=222','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox265" value="265"></td>
+        <td class="black12"><label for="cbox265">Abdominal Crunch Machine</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=265','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox266" value="266"></td>
+        <td class="black12"><label for="cbox266">Knee Raises on Captain’s Chair</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=266','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox340" value="340"></td>
+        <td class="black12"><label for="cbox340">Plank with Ab Wheel</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=340','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox341" value="341"></td>
+        <td class="black12"><label for="cbox341">Straight-Arm Plank on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=341','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox343" value="343"></td>
+        <td class="black12"><label for="cbox343">Straight-Arm Side Plank on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=343','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox348" value="348"></td>
+        <td class="black12"><label for="cbox348">Modified Seated Balance on Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=348','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox350" value="350"></td>
+        <td class="black12"><label for="cbox350">Abdominal Crunches on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=350','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox353" value="353"></td>
+        <td class="black12"><label for="cbox353">Two-Leg Standing Balance on Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=353','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox360" value="360"></td>
+        <td class="black12"><label for="cbox360">Single Leg Standing Balance on Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=360','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox361" value="361"></td>
+        <td class="black12"><label for="cbox361">Single Leg Standing Balance with Isometric Knee Lift</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=361','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox362" value="362"></td>
+        <td class="black12"><label for="cbox362">Single Leg Standing Balance with Isometric Leg Abduction</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=362','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox452" value="452"></td>
+        <td class="black12"><label for="cbox452">Seated Torso Twists with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=452','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox454" value="454"></td>
+        <td class="black12"><label for="cbox454">Seated Torso Twists with Arms Extended</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=454','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox456" value="456"></td>
+        <td class="black12"><label for="cbox456">Medicine Ball Crunches</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=456','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox466" value="466"></td>
+        <td class="black12"><label for="cbox466">Classic Wood Chop with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=466','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox472" value="472"></td>
+        <td class="black12"><label for="cbox472">Twisting Medicine Ball Pass with Partner</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=472','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox475" value="475"></td>
+        <td class="black12"><label for="cbox475">Partner Seated Torso Twist with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=475','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox483" value="483"></td>
+        <td class="black12"><label for="cbox483">Straight-Arm Plank on Foam Roller</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=483','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox487" value="487"></td>
+        <td class="black12"><label for="cbox487">Kneeling Roll-ins with Foam Roller</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=487','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox489" value="489"></td>
+        <td class="black12"><label for="cbox489">Back Extensions (Swan) on Foam Roller</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=489','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <!--End loop here-->
+          </tbody></table>
+			  <br>
+			  <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><span class="black12"><strong>Advanced</strong></span><br></td>
+        </tr>
+              </tbody></table>
+			<table border="0" cellspacing="0" cellpadding="5">
+      <!--Start loop here-->
+	  
+	  <tbody><tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox12" value="12"></td>
+        <td class="black12"><label for="cbox12">Bicycle Crunches</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=12','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox13" value="13"></td>
+        <td class="black12"><label for="cbox13">Elbow to Knee Crunch</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=13','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox14" value="14"></td>
+        <td class="black12"><label for="cbox14">Jackknife with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=14','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox15" value="15"></td>
+        <td class="black12"><label for="cbox15">Kneeling Rollout with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=15','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox16" value="16"></td>
+        <td class="black12"><label for="cbox16">Leg Lifts with Ball </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=16','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox17" value="17"></td>
+        <td class="black12"><label for="cbox17">Back Extension with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=17','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox20" value="20"></td>
+        <td class="black12"><label for="cbox20">Balancing Seated Twist with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=20','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox44" value="44"></td>
+        <td class="black12"><label for="cbox44">Wheelbarrow Walk with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=44','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox114" value="114"></td>
+        <td class="black12"><label for="cbox114">Hip Flexion &amp; Extension</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=114','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox118" value="118"></td>
+        <td class="black12"><label for="cbox118">Airplane Pose</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=118','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox119" value="119"></td>
+        <td class="black12"><label for="cbox119">T Stand</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=119','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox127" value="127"></td>
+        <td class="black12"><label for="cbox127">Seated Knee Lifts with Chair</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=127','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox141" value="141"></td>
+        <td class="black12"><label for="cbox141">Plank</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=141','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox143" value="143"></td>
+        <td class="black12"><label for="cbox143">Lying Straight Leg Raises</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=143','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox144" value="144"></td>
+        <td class="black12"><label for="cbox144">Pendulum</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=144','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox146" value="146"></td>
+        <td class="black12"><label for="cbox146">Side Plank</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=146','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox164" value="164"></td>
+        <td class="black12"><label for="cbox164">Dumbbell Crunches</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=164','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox165" value="165"></td>
+        <td class="black12"><label for="cbox165">Low Mount Crunches with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=165','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox166" value="166"></td>
+        <td class="black12"><label for="cbox166">Low Mount Reverse Crunches with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=166','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox167" value="167"></td>
+        <td class="black12"><label for="cbox167">Low Mount Double Crunches with Band</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=167','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox176" value="176"></td>
+        <td class="black12"><label for="cbox176">Reverse Crunch with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=176','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox177" value="177"></td>
+        <td class="black12"><label for="cbox177">Clamshell Crunch with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=177','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox178" value="178"></td>
+        <td class="black12"><label for="cbox178">Slow Swimming on Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=178','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox184" value="184"></td>
+        <td class="black12"><label for="cbox184">Pendulum with Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=184','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox267" value="267"></td>
+        <td class="black12"><label for="cbox267">Leg Raises on Captain’s Chair</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=267','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox268" value="268"></td>
+        <td class="black12"><label for="cbox268">Back Extensions on Roman Chair</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=268','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox338" value="338"></td>
+        <td class="black12"><label for="cbox338">Abs Roll Out with Wheel</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=338','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox339" value="339"></td>
+        <td class="black12"><label for="cbox339">Oblique Roll Out with Wheel </label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=339','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox342" value="342"></td>
+        <td class="black12"><label for="cbox342">Modified Plank on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=342','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox344" value="344"></td>
+        <td class="black12"><label for="cbox344">Modified Side Plank on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=344','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox347" value="347"></td>
+        <td class="black12"><label for="cbox347">Seated Lean Backs on Balance Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=347','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox349" value="349"></td>
+        <td class="black12"><label for="cbox349">Seated Balance on Board</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=349','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox363" value="363"></td>
+        <td class="black12"><label for="cbox363">Single Leg Standing Balance with Isometric Leg Lift</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=363','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox364" value="364"></td>
+        <td class="black12"><label for="cbox364">Single Leg Standing Balance with Abduction</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=364','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox365" value="365"></td>
+        <td class="black12"><label for="cbox365">Single Leg Standing Balance with Hip Flexion</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=365','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox453" value="453"></td>
+        <td class="black12"><label for="cbox453">Balancing Seated Torso Twists with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=453','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox455" value="455"></td>
+        <td class="black12"><label for="cbox455">Balancing Seated Torso Twists with Arms Extended</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=455','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox457" value="457"></td>
+        <td class="black12"><label for="cbox457">Lying Straight-Leg Raises with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=457','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox458" value="458"></td>
+        <td class="black12"><label for="cbox458">Pendulum with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=458','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox460" value="460"></td>
+        <td class="black12"><label for="cbox460">Reverse Crunch with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=460','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox461" value="461"></td>
+        <td class="black12"><label for="cbox461">Double Crunches with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=461','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox465" value="465"></td>
+        <td class="black12"><label for="cbox465">Advanced Wood Chop with Medicine Ball</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=465','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox468" value="468"></td>
+        <td class="black12"><label for="cbox468">Standing Russian Twist</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=468','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox476" value="476"></td>
+        <td class="black12"><label for="cbox476">Partner Sit-Ups with Medicine Ball Toss</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=476','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox484" value="484"></td>
+        <td class="black12"><label for="cbox484">Elbow Plank on Foam Roller</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=484','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td width="20"><input name="cbox" type="checkbox" id="cbox488" value="488"></td>
+        <td class="black12"><label for="cbox488">Jackknife with Foam Roller</label>
+			<span class="black11">&nbsp;<a href="javascript: void(0);" onclick="window.open('/resource/exercises-pop-indiv.asp?ID=488','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directions=no,location=no,status=no'); return false;">View</a>
+			</span>
+		</td>
+      </tr>
+	  
+	  <!--End loop here-->
+           </tbody></table>
+					</td>
+    </tr>
+	 
+		</tbody></table>

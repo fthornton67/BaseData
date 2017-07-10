@@ -1,0 +1,1 @@
+mongoexport --db phitrme-dev --collection phitr_exercises --out exercises.json --journal

@@ -1,0 +1,1 @@
+mongoimport --db phitr-dev --collection phitr_exercises --file exercises.json
